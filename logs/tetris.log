@@ -1,0 +1,2338 @@
+[2025-11-08 20:01:40] [INFO] === Nouvelle session de jeu ===
+[2025-11-08 20:01:40] [STATE] INCONNU -> MENU
+[2025-11-08 20:01:40] [INFO] Jeu initialisé
+[2025-11-08 20:01:51] [FACTORY] PieceO created
+[2025-11-08 20:01:51] [FACTORY] PieceO created
+[2025-11-08 20:01:51] [INFO] Jeu démarré
+[2025-11-08 20:01:51] [STATE] EtatMenu -> EtatEnCours
+[2025-11-08 20:01:51] [STATE] MENU -> EN_COURS
+[2025-11-08 20:01:56] [FACTORY] PieceT created
+[2025-11-08 20:01:59] [FACTORY] PieceI created
+[2025-11-08 20:02:03] [FACTORY] PieceS created
+[2025-11-08 20:02:10] [FACTORY] PieceI created
+[2025-11-08 20:02:15] [FACTORY] PieceZ created
+[2025-11-08 20:02:18] [FACTORY] PieceT created
+[2025-11-08 20:02:21] [FACTORY] PieceS created
+[2025-11-08 20:02:24] [FACTORY] PieceL created
+[2025-11-08 20:02:28] [FACTORY] PieceT created
+[2025-11-08 20:02:30] [FACTORY] PieceS created
+[2025-11-08 20:02:35] [FACTORY] PieceL created
+[2025-11-08 20:02:40] [FACTORY] PieceO created
+[2025-11-08 20:02:44] [FACTORY] PieceI created
+[2025-11-08 20:02:47] [FACTORY] PieceL created
+[2025-11-08 20:02:51] [FACTORY] PieceS created
+[2025-11-08 20:02:55] [FACTORY] PieceJ created
+[2025-11-08 20:02:58] [FACTORY] PieceI created
+[2025-11-08 20:03:01] [FACTORY] PieceT created
+[2025-11-08 20:03:03] [FACTORY] PieceZ created
+[2025-11-08 20:03:04] [FACTORY] PieceJ created
+[2025-11-08 20:03:07] [FACTORY] PieceZ created
+[2025-11-08 20:03:13] [FACTORY] PieceZ created
+[2025-11-08 20:03:17] [FACTORY] PieceO created
+[2025-11-08 20:03:21] [FACTORY] PieceT created
+[2025-11-08 20:03:25] [FACTORY] PieceL created
+[2025-11-08 20:03:29] [FACTORY] PieceZ created
+[2025-11-08 20:03:33] [FACTORY] PieceJ created
+[2025-11-08 20:03:36] [FACTORY] PieceS created
+[2025-11-08 20:03:38] [FACTORY] PieceS created
+[2025-11-08 20:03:39] [STATE] EtatEnCours -> EtatGameOver
+[2025-11-08 20:03:39] [STATE] EN_COURS -> GAME_OVER
+[2025-11-08 20:03:39] [SCORE] Final score: 0
+[2025-11-08 20:03:41] [INFO] Nouveau jeu démarré
+[2025-11-08 20:03:41] [STATE] EtatGameOver -> EtatMenu
+[2025-11-08 20:03:41] [STATE] INCONNU -> MENU
+[2025-11-08 20:03:42] [FACTORY] PieceS created
+[2025-11-08 20:03:42] [INFO] Jeu démarré
+[2025-11-08 20:03:42] [STATE] EtatMenu -> EtatEnCours
+[2025-11-08 20:03:42] [STATE] MENU -> EN_COURS
+[2025-11-08 20:03:42] [STATE] EtatEnCours -> EtatGameOver
+[2025-11-08 20:03:42] [STATE] EN_COURS -> GAME_OVER
+[2025-11-08 20:03:42] [SCORE] Final score: 0
+[2025-11-08 20:03:44] [INFO] Nouveau jeu démarré
+[2025-11-08 20:03:44] [STATE] EtatGameOver -> EtatMenu
+[2025-11-08 20:03:44] [STATE] INCONNU -> MENU
+[2025-11-08 20:03:46] [FACTORY] PieceI created
+[2025-11-08 20:03:46] [INFO] Jeu démarré
+[2025-11-08 20:03:46] [STATE] EtatMenu -> EtatEnCours
+[2025-11-08 20:03:46] [STATE] MENU -> EN_COURS
+[2025-11-08 20:03:46] [STATE] EtatEnCours -> EtatGameOver
+[2025-11-08 20:03:46] [STATE] EN_COURS -> GAME_OVER
+[2025-11-08 20:03:46] [SCORE] Final score: 0
+[2025-11-08 20:03:48] [INFO] Nouveau jeu démarré
+[2025-11-08 20:03:48] [STATE] EtatGameOver -> EtatMenu
+[2025-11-08 20:03:48] [STATE] INCONNU -> MENU
+[2025-11-08 20:03:50] [FACTORY] PieceI created
+[2025-11-08 20:03:50] [INFO] Jeu démarré
+[2025-11-08 20:03:50] [STATE] EtatMenu -> EtatEnCours
+[2025-11-08 20:03:50] [STATE] MENU -> EN_COURS
+[2025-11-08 20:03:50] [STATE] EtatEnCours -> EtatGameOver
+[2025-11-08 20:03:50] [STATE] EN_COURS -> GAME_OVER
+[2025-11-08 20:03:50] [SCORE] Final score: 0
+[2025-11-08 20:03:51] [INFO] Nouveau jeu démarré
+[2025-11-08 20:03:51] [STATE] EtatGameOver -> EtatMenu
+[2025-11-08 20:03:51] [STATE] INCONNU -> MENU
+[2025-11-08 20:03:51] [FACTORY] PieceJ created
+[2025-11-08 20:03:51] [INFO] Jeu démarré
+[2025-11-08 20:03:51] [STATE] EtatMenu -> EtatEnCours
+[2025-11-08 20:03:51] [STATE] MENU -> EN_COURS
+[2025-11-08 20:03:51] [STATE] EtatEnCours -> EtatGameOver
+[2025-11-08 20:03:51] [STATE] EN_COURS -> GAME_OVER
+[2025-11-08 20:03:51] [SCORE] Final score: 0
+[2025-11-08 20:03:53] [INFO] Nouveau jeu démarré
+[2025-11-08 20:03:53] [STATE] EtatGameOver -> EtatMenu
+[2025-11-08 20:03:53] [STATE] INCONNU -> MENU
+[2025-11-08 20:03:53] [FACTORY] PieceZ created
+[2025-11-08 20:03:53] [INFO] Jeu démarré
+[2025-11-08 20:03:53] [STATE] EtatMenu -> EtatEnCours
+[2025-11-08 20:03:53] [STATE] MENU -> EN_COURS
+[2025-11-08 20:03:53] [STATE] EtatEnCours -> EtatGameOver
+[2025-11-08 20:03:53] [STATE] EN_COURS -> GAME_OVER
+[2025-11-08 20:03:53] [SCORE] Final score: 0
+[2025-11-08 20:03:53] [INFO] Nouveau jeu démarré
+[2025-11-08 20:03:53] [STATE] EtatGameOver -> EtatMenu
+[2025-11-08 20:03:53] [STATE] INCONNU -> MENU
+[2025-11-08 20:03:54] [FACTORY] PieceZ created
+[2025-11-08 20:03:54] [INFO] Jeu démarré
+[2025-11-08 20:03:54] [STATE] EtatMenu -> EtatEnCours
+[2025-11-08 20:03:54] [STATE] MENU -> EN_COURS
+[2025-11-08 20:03:54] [STATE] EtatEnCours -> EtatGameOver
+[2025-11-08 20:03:54] [STATE] EN_COURS -> GAME_OVER
+[2025-11-08 20:03:54] [SCORE] Final score: 0
+[2025-11-08 20:03:55] [INFO] Nouveau jeu démarré
+[2025-11-08 20:03:55] [STATE] EtatGameOver -> EtatMenu
+[2025-11-08 20:03:55] [STATE] INCONNU -> MENU
+[2025-11-08 20:03:55] [FACTORY] PieceL created
+[2025-11-08 20:03:55] [INFO] Jeu démarré
+[2025-11-08 20:03:55] [STATE] EtatMenu -> EtatEnCours
+[2025-11-08 20:03:55] [STATE] MENU -> EN_COURS
+[2025-11-08 20:03:55] [STATE] EtatEnCours -> EtatGameOver
+[2025-11-08 20:03:55] [STATE] EN_COURS -> GAME_OVER
+[2025-11-08 20:03:55] [SCORE] Final score: 0
+[2025-11-08 20:03:55] [INFO] Nouveau jeu démarré
+[2025-11-08 20:03:55] [STATE] EtatGameOver -> EtatMenu
+[2025-11-08 20:03:55] [STATE] INCONNU -> MENU
+[2025-11-08 20:03:55] [FACTORY] PieceS created
+[2025-11-08 20:03:55] [INFO] Jeu démarré
+[2025-11-08 20:03:55] [STATE] EtatMenu -> EtatEnCours
+[2025-11-08 20:03:55] [STATE] MENU -> EN_COURS
+[2025-11-08 20:03:56] [STATE] EtatEnCours -> EtatGameOver
+[2025-11-08 20:03:56] [STATE] EN_COURS -> GAME_OVER
+[2025-11-08 20:03:56] [SCORE] Final score: 0
+[2025-11-08 20:41:45] [INFO] === Nouvelle session de jeu ===
+[2025-11-08 20:41:45] [STATE] INCONNU -> MENU
+[2025-11-08 20:41:45] [INFO] Jeu initialisé
+[2025-11-08 20:41:47] [FACTORY] PieceL created
+[2025-11-08 20:41:47] [FACTORY] PieceS created
+[2025-11-08 20:41:47] [INFO] Jeu démarré
+[2025-11-08 20:41:47] [STATE] EtatMenu -> EtatEnCours
+[2025-11-08 20:41:47] [STATE] MENU -> EN_COURS
+[2025-11-08 20:41:50] [FACTORY] PieceS created
+[2025-11-08 20:41:56] [FACTORY] PieceO created
+[2025-11-08 20:42:05] [FACTORY] PieceJ created
+[2025-11-08 20:42:09] [FACTORY] PieceS created
+[2025-11-08 20:42:23] [FACTORY] PieceJ created
+[2025-11-08 20:42:27] [FACTORY] PieceJ created
+[2025-11-08 20:42:34] [FACTORY] PieceI created
+[2025-11-08 20:42:43] [GAME] 2 line(s) cleared
+[2025-11-08 20:42:43] [FACTORY] PieceI created
+[2025-11-08 20:42:50] [FACTORY] PieceO created
+[2025-11-08 20:42:55] [FACTORY] PieceO created
+[2025-11-08 20:42:59] [FACTORY] PieceI created
+[2025-11-08 20:43:05] [FACTORY] PieceI created
+[2025-11-08 20:43:09] [FACTORY] PieceS created
+[2025-11-08 20:43:16] [FACTORY] PieceI created
+[2025-11-08 20:43:20] [FACTORY] PieceL created
+[2025-11-08 20:43:26] [FACTORY] PieceI created
+[2025-11-08 20:43:32] [FACTORY] PieceT created
+[2025-11-08 20:43:36] [FACTORY] PieceL created
+[2025-11-08 20:43:45] [FACTORY] PieceO created
+[2025-11-08 20:43:53] [FACTORY] PieceJ created
+[2025-11-08 20:43:57] [GAME] 1 line(s) cleared
+[2025-11-08 20:43:57] [FACTORY] PieceO created
+[2025-11-08 20:44:03] [FACTORY] PieceT created
+[2025-11-08 20:44:06] [FACTORY] PieceS created
+[2025-11-08 20:44:10] [FACTORY] PieceJ created
+[2025-11-08 20:44:15] [FACTORY] PieceI created
+[2025-11-08 20:44:19] [FACTORY] PieceI created
+[2025-11-08 20:44:23] [GAME] 3 line(s) cleared
+[2025-11-08 20:44:23] [FACTORY] PieceL created
+[2025-11-08 20:44:28] [GAME] 2 line(s) cleared
+[2025-11-08 20:44:28] [FACTORY] PieceO created
+[2025-11-08 20:44:35] [FACTORY] PieceT created
+[2025-11-08 20:44:38] [FACTORY] PieceI created
+[2025-11-08 20:44:41] [GAME] 1 line(s) cleared
+[2025-11-08 20:44:41] [FACTORY] PieceO created
+[2025-11-08 20:44:48] [FACTORY] PieceO created
+[2025-11-08 20:44:51] [FACTORY] PieceT created
+[2025-11-08 20:44:54] [FACTORY] PieceZ created
+[2025-11-08 20:45:06] [INFO] Niveau 2 atteint !
+[2025-11-08 20:45:06] [GAME] 1 line(s) cleared
+[2025-11-08 20:45:06] [FACTORY] PieceL created
+[2025-11-08 20:45:12] [FACTORY] PieceJ created
+[2025-11-08 20:45:17] [FACTORY] PieceL created
+[2025-11-08 20:45:20] [GAME] 1 line(s) cleared
+[2025-11-08 20:45:20] [FACTORY] PieceJ created
+[2025-11-08 20:45:25] [FACTORY] PieceO created
+[2025-11-08 20:45:27] [GAME] 1 line(s) cleared
+[2025-11-08 20:45:27] [FACTORY] PieceL created
+[2025-11-08 20:45:31] [FACTORY] PieceI created
+[2025-11-08 20:45:34] [GAME] 2 line(s) cleared
+[2025-11-08 20:45:34] [FACTORY] PieceZ created
+[2025-11-08 20:45:38] [GAME] 2 line(s) cleared
+[2025-11-08 20:45:38] [FACTORY] PieceL created
+[2025-11-08 20:45:45] [FACTORY] PieceL created
+[2025-11-08 20:45:50] [FACTORY] PieceZ created
+[2025-11-08 20:45:56] [FACTORY] PieceI created
+[2025-11-08 20:46:02] [FACTORY] PieceT created
+[2025-11-08 20:46:07] [GAME] 1 line(s) cleared
+[2025-11-08 20:46:07] [FACTORY] PieceT created
+[2025-11-08 20:46:11] [FACTORY] PieceZ created
+[2025-11-08 20:46:15] [FACTORY] PieceJ created
+[2025-11-08 20:46:19] [FACTORY] PieceJ created
+[2025-11-08 20:46:23] [FACTORY] PieceJ created
+[2025-11-08 20:46:27] [GAME] 2 line(s) cleared
+[2025-11-08 20:46:27] [FACTORY] PieceZ created
+[2025-11-08 20:46:33] [INFO] Niveau 3 atteint !
+[2025-11-08 20:46:33] [GAME] 1 line(s) cleared
+[2025-11-08 20:46:33] [FACTORY] PieceT created
+[2025-11-08 20:46:38] [FACTORY] PieceZ created
+[2025-11-08 20:46:43] [FACTORY] PieceZ created
+[2025-11-08 20:46:46] [GAME] 1 line(s) cleared
+[2025-11-08 20:46:46] [FACTORY] PieceZ created
+[2025-11-08 20:46:51] [FACTORY] PieceZ created
+[2025-11-08 20:46:54] [FACTORY] PieceL created
+[2025-11-08 20:46:57] [FACTORY] PieceS created
+[2025-11-08 20:47:01] [FACTORY] PieceS created
+[2025-11-08 20:47:04] [FACTORY] PieceZ created
+[2025-11-08 20:47:08] [GAME] 2 line(s) cleared
+[2025-11-08 20:47:08] [FACTORY] PieceS created
+[2025-11-08 20:47:12] [FACTORY] PieceO created
+[2025-11-08 20:47:20] [FACTORY] PieceL created
+[2025-11-08 20:47:22] [FACTORY] PieceT created
+[2025-11-08 20:47:27] [FACTORY] PieceL created
+[2025-11-08 20:47:32] [FACTORY] PieceZ created
+[2025-11-08 20:47:35] [FACTORY] PieceL created
+[2025-11-08 20:47:40] [FACTORY] PieceJ created
+[2025-11-08 20:47:44] [FACTORY] PieceL created
+[2025-11-08 20:47:47] [FACTORY] PieceJ created
+[2025-11-08 20:47:51] [FACTORY] PieceL created
+[2025-11-08 20:47:54] [FACTORY] PieceS created
+[2025-11-08 20:47:59] [FACTORY] PieceO created
+[2025-11-08 20:48:01] [FACTORY] PieceL created
+[2025-11-08 20:48:03] [FACTORY] PieceZ created
+[2025-11-08 20:48:04] [FACTORY] PieceI created
+[2025-11-08 20:48:05] [FACTORY] PieceS created
+[2025-11-08 20:48:06] [FACTORY] PieceJ created
+[2025-11-08 20:48:07] [STATE] EtatEnCours -> EtatGameOver
+[2025-11-08 20:48:07] [STATE] EN_COURS -> GAME_OVER
+[2025-11-08 20:48:07] [SCORE] Final score: 5400
+[2025-11-08 20:48:08] [INFO] Nouveau jeu démarré
+[2025-11-08 20:48:08] [STATE] EtatGameOver -> EtatMenu
+[2025-11-08 20:48:08] [STATE] INCONNU -> MENU
+[2025-11-08 20:48:11] [FACTORY] PieceT created
+[2025-11-08 20:48:11] [INFO] Jeu démarré
+[2025-11-08 20:48:11] [STATE] EtatMenu -> EtatEnCours
+[2025-11-08 20:48:11] [STATE] MENU -> EN_COURS
+[2025-11-08 20:48:11] [STATE] EtatEnCours -> EtatGameOver
+[2025-11-08 20:48:11] [STATE] EN_COURS -> GAME_OVER
+[2025-11-08 20:48:11] [SCORE] Final score: 0
+[2025-11-08 20:48:14] [INFO] Nouveau jeu démarré
+[2025-11-08 20:48:14] [STATE] EtatGameOver -> EtatMenu
+[2025-11-08 20:48:14] [STATE] INCONNU -> MENU
+[2025-11-08 20:48:18] [FACTORY] PieceJ created
+[2025-11-08 20:48:18] [INFO] Jeu démarré
+[2025-11-08 20:48:18] [STATE] EtatMenu -> EtatEnCours
+[2025-11-08 20:48:18] [STATE] MENU -> EN_COURS
+[2025-11-08 20:48:18] [STATE] EtatEnCours -> EtatGameOver
+[2025-11-08 20:48:18] [STATE] EN_COURS -> GAME_OVER
+[2025-11-08 20:48:18] [SCORE] Final score: 0
+[2025-11-08 21:06:25] [INFO] === Nouvelle session de jeu ===
+[2025-11-08 21:06:25] [STATE] INCONNU -> MENU
+[2025-11-08 21:06:25] [INFO] Jeu initialisé
+[2025-11-08 21:06:27] [FACTORY] PieceJ created
+[2025-11-08 21:06:27] [FACTORY] PieceL created
+[2025-11-08 21:06:27] [INFO] Jeu démarré
+[2025-11-08 21:06:27] [STATE] EtatMenu -> EtatEnCours
+[2025-11-08 21:06:27] [STATE] MENU -> EN_COURS
+[2025-11-08 21:06:30] [FACTORY] PieceT created
+[2025-11-08 21:06:31] [FACTORY] PieceT created
+[2025-11-08 21:06:32] [FACTORY] PieceI created
+[2025-11-08 21:06:33] [FACTORY] PieceI created
+[2025-11-08 21:06:34] [FACTORY] PieceI created
+[2025-11-08 21:06:35] [FACTORY] PieceI created
+[2025-11-08 21:06:36] [FACTORY] PieceL created
+[2025-11-08 21:06:37] [FACTORY] PieceJ created
+[2025-11-08 21:06:38] [FACTORY] PieceI created
+[2025-11-08 21:06:39] [FACTORY] PieceZ created
+[2025-11-08 21:06:40] [FACTORY] PieceJ created
+[2025-11-08 21:06:41] [FACTORY] PieceT created
+[2025-11-08 21:06:43] [STATE] EtatEnCours -> EtatGameOver
+[2025-11-08 21:06:43] [STATE] EN_COURS -> GAME_OVER
+[2025-11-08 21:06:43] [SCORE] Final score: 0
+[2025-11-08 21:06:44] [INFO] Nouveau jeu démarré
+[2025-11-08 21:06:44] [STATE] EtatGameOver -> EtatMenu
+[2025-11-08 21:06:44] [STATE] INCONNU -> MENU
+[2025-11-08 21:06:44] [FACTORY] PieceJ created
+[2025-11-08 21:06:45] [FACTORY] PieceL created
+[2025-11-08 21:06:45] [INFO] Jeu démarré
+[2025-11-08 21:06:45] [STATE] EtatMenu -> EtatEnCours
+[2025-11-08 21:06:45] [STATE] MENU -> EN_COURS
+[2025-11-08 21:06:48] [FACTORY] PieceI created
+[2025-11-08 21:06:52] [FACTORY] PieceZ created
+[2025-11-08 21:31:29] [INFO] === Nouvelle session de jeu ===
+[2025-11-08 21:31:29] [STATE] INCONNU -> MENU
+[2025-11-08 21:31:29] [INFO] Jeu initialisé
+[2025-11-08 21:31:42] [FACTORY] PieceZ created
+[2025-11-08 21:31:42] [FACTORY] PieceI created
+[2025-11-08 21:31:42] [INFO] Jeu démarré
+[2025-11-08 21:31:42] [STATE] EtatMenu -> EtatEnCours
+[2025-11-08 21:31:42] [STATE] MENU -> EN_COURS
+[2025-11-08 21:31:47] [FACTORY] PieceZ created
+[2025-11-08 21:31:53] [FACTORY] PieceO created
+[2025-11-08 21:32:04] [FACTORY] PieceL created
+[2025-11-08 21:32:07] [FACTORY] PieceT created
+[2025-11-08 21:32:19] [FACTORY] PieceZ created
+[2025-11-08 21:32:24] [FACTORY] PieceS created
+[2025-11-08 21:32:30] [FACTORY] PieceL created
+[2025-11-08 21:32:34] [FACTORY] PieceZ created
+[2025-11-08 21:32:41] [FACTORY] PieceL created
+[2025-11-08 21:32:48] [FACTORY] PieceT created
+[2025-11-08 21:32:52] [FACTORY] PieceJ created
+[2025-11-08 21:32:58] [FACTORY] PieceT created
+[2025-11-08 21:33:03] [FACTORY] PieceL created
+[2025-11-08 21:33:07] [FACTORY] PieceJ created
+[2025-11-08 21:33:12] [FACTORY] PieceS created
+[2025-11-08 21:33:17] [FACTORY] PieceS created
+[2025-11-08 21:33:21] [FACTORY] PieceS created
+[2025-11-08 21:33:25] [FACTORY] PieceI created
+[2025-11-08 21:33:33] [GAME] 2 line(s) cleared
+[2025-11-08 21:33:33] [FACTORY] PieceT created
+[2025-11-08 21:33:40] [GAME] 1 line(s) cleared
+[2025-11-08 21:33:40] [FACTORY] PieceJ created
+[2025-11-08 21:33:50] [FACTORY] PieceS created
+[2025-11-08 21:33:55] [GAME] 3 line(s) cleared
+[2025-11-08 21:33:55] [FACTORY] PieceL created
+[2025-11-08 21:34:00] [FACTORY] PieceT created
+[2025-11-08 21:34:03] [GAME] 1 line(s) cleared
+[2025-11-08 21:34:03] [FACTORY] PieceO created
+[2025-11-08 21:34:14] [FACTORY] PieceO created
+[2025-11-08 21:34:20] [FACTORY] PieceJ created
+[2025-11-08 21:34:25] [FACTORY] PieceT created
+[2025-11-08 21:34:28] [FACTORY] PieceI created
+[2025-11-08 21:34:33] [FACTORY] PieceI created
+[2025-11-08 21:34:37] [INFO] Niveau 2 atteint !
+[2025-11-08 21:34:37] [GAME] 3 line(s) cleared
+[2025-11-08 21:34:37] [FACTORY] PieceL created
+[2025-11-08 21:34:41] [FACTORY] PieceJ created
+[2025-11-08 21:34:47] [FACTORY] PieceO created
+[2025-11-08 21:34:48] [FACTORY] PieceJ created
+[2025-11-08 21:34:49] [FACTORY] PieceS created
+[2025-11-08 21:34:50] [FACTORY] PieceL created
+[2025-11-08 21:34:52] [FACTORY] PieceS created
+[2025-11-08 21:34:53] [FACTORY] PieceJ created
+[2025-11-08 21:34:54] [FACTORY] PieceS created
+[2025-11-08 21:34:55] [FACTORY] PieceS created
+[2025-11-08 21:34:56] [STATE] EtatEnCours -> EtatGameOver
+[2025-11-08 21:34:56] [STATE] EN_COURS -> GAME_OVER
+[2025-11-08 21:34:56] [SCORE] Final score: 2000
+[2025-11-08 21:34:58] [INFO] Nouveau jeu démarré
+[2025-11-08 21:34:58] [STATE] EtatGameOver -> EtatMenu
+[2025-11-08 21:34:58] [STATE] INCONNU -> MENU
+[2025-11-08 21:34:58] [FACTORY] PieceJ created
+[2025-11-08 21:35:01] [FACTORY] PieceT created
+[2025-11-08 21:35:01] [INFO] Jeu démarré
+[2025-11-08 21:35:01] [STATE] EtatMenu -> EtatEnCours
+[2025-11-08 21:35:01] [STATE] MENU -> EN_COURS
+[2025-11-08 21:47:18] [INFO] === Nouvelle session de jeu ===
+[2025-11-08 21:47:18] [STATE] INCONNU -> MENU
+[2025-11-08 21:47:18] [INFO] Jeu initialisé
+[2025-11-08 21:47:51] [INFO] === Nouvelle session de jeu ===
+[2025-11-08 21:47:51] [STATE] INCONNU -> MENU
+[2025-11-08 21:47:51] [INFO] Jeu initialisé
+[2025-11-08 21:47:55] [FACTORY] PieceO created
+[2025-11-08 21:47:55] [FACTORY] PieceI created
+[2025-11-08 21:47:55] [INFO] Jeu démarré
+[2025-11-08 21:47:55] [STATE] EtatMenu -> EtatEnCours
+[2025-11-08 21:47:55] [STATE] MENU -> EN_COURS
+[2025-11-08 21:47:59] [FACTORY] PieceZ created
+[2025-11-08 21:50:13] [INFO] === Nouvelle session de jeu ===
+[2025-11-08 21:50:13] [STATE] INCONNU -> MENU
+[2025-11-08 21:50:13] [INFO] Jeu initialisé
+[2025-11-08 21:50:17] [FACTORY] PieceJ created
+[2025-11-08 21:50:17] [FACTORY] PieceI created
+[2025-11-08 21:50:17] [INFO] Jeu démarré
+[2025-11-08 21:50:17] [STATE] EtatMenu -> EtatEnCours
+[2025-11-08 21:50:17] [STATE] MENU -> EN_COURS
+[2025-11-08 21:50:22] [FACTORY] PieceT created
+[2025-11-08 21:50:35] [FACTORY] PieceZ created
+[2025-11-08 21:50:45] [GAME] 1 line(s) cleared
+[2025-11-08 21:50:45] [FACTORY] PieceL created
+[2025-11-08 21:50:50] [FACTORY] PieceO created
+[2025-11-08 21:50:55] [FACTORY] PieceT created
+[2025-11-08 21:50:58] [FACTORY] PieceO created
+[2025-11-08 22:19:34] [INFO] === Nouvelle session de jeu ===
+[2025-11-08 22:19:34] [STATE] INCONNU -> MENU
+[2025-11-08 22:19:34] [INFO] Jeu initialisé
+[2025-11-08 22:19:45] [FACTORY] PieceI created
+[2025-11-08 22:19:45] [FACTORY] PieceJ created
+[2025-11-08 22:19:45] [INFO] Jeu démarré
+[2025-11-08 22:19:45] [STATE] EtatMenu -> EtatEnCours
+[2025-11-08 22:19:45] [STATE] MENU -> EN_COURS
+[2025-11-08 22:19:54] [FACTORY] PieceI created
+[2025-11-08 22:19:57] [FACTORY] PieceS created
+[2025-11-08 22:20:04] [FACTORY] PieceS created
+[2025-11-08 22:20:10] [FACTORY] PieceO created
+[2025-11-08 22:20:16] [FACTORY] PieceT created
+[2025-11-08 22:20:18] [GAME] 2 line(s) cleared
+[2025-11-08 22:20:18] [FACTORY] PieceI created
+[2025-11-08 22:20:21] [FACTORY] PieceO created
+[2025-11-08 22:20:26] [GAME] 1 line(s) cleared
+[2025-11-08 22:20:26] [FACTORY] PieceS created
+[2025-11-08 22:26:06] [INFO] === Nouvelle session de jeu ===
+[2025-11-08 22:26:06] [STATE] INCONNU -> MENU
+[2025-11-08 22:26:06] [INFO] Jeu initialisé
+[2025-11-08 22:26:49] [INFO] === Nouvelle session de jeu ===
+[2025-11-08 22:26:49] [STATE] INCONNU -> MENU
+[2025-11-08 22:26:49] [INFO] Jeu initialisé
+[2025-11-08 22:27:08] [INFO] === Nouvelle session de jeu ===
+[2025-11-08 22:27:08] [STATE] INCONNU -> MENU
+[2025-11-08 22:27:08] [INFO] Jeu initialisé
+[2025-11-08 22:27:59] [INFO] === Nouvelle session de jeu ===
+[2025-11-08 22:27:59] [STATE] INCONNU -> MENU
+[2025-11-08 22:27:59] [INFO] Jeu initialisé
+[2025-11-08 22:30:36] [INFO] === Nouvelle session de jeu ===
+[2025-11-08 22:30:36] [STATE] INCONNU -> MENU
+[2025-11-08 22:30:36] [INFO] Jeu initialisé
+[2025-11-08 22:30:51] [FACTORY] PieceZ created
+[2025-11-08 22:30:51] [FACTORY] PieceS created
+[2025-11-08 22:30:51] [INFO] Jeu démarré
+[2025-11-08 22:30:51] [STATE] EtatMenu -> EtatEnCours
+[2025-11-08 22:30:51] [STATE] MENU -> EN_COURS
+[2025-11-08 22:31:10] [FACTORY] PieceJ created
+[2025-11-08 22:32:19] [INFO] === Nouvelle session de jeu ===
+[2025-11-08 22:32:19] [STATE] INCONNU -> MENU
+[2025-11-08 22:32:19] [INFO] Jeu initialisé
+[2025-11-08 22:32:38] [INFO] === Nouvelle session de jeu ===
+[2025-11-08 22:32:38] [STATE] INCONNU -> MENU
+[2025-11-08 22:32:38] [INFO] Jeu initialisé
+[2025-11-09 08:39:08] [INFO] === Nouvelle session de jeu ===
+[2025-11-09 08:39:08] [STATE] INCONNU -> MENU
+[2025-11-09 08:39:08] [INFO] Jeu initialisé
+[2025-11-09 08:40:32] [FACTORY] PieceZ created
+[2025-11-09 08:40:32] [FACTORY] PieceJ created
+[2025-11-09 08:40:32] [INFO] Jeu démarré
+[2025-11-09 08:40:32] [STATE] EtatMenu -> EtatEnCours
+[2025-11-09 08:40:32] [STATE] MENU -> EN_COURS
+[2025-11-09 08:50:04] [INFO] === Nouvelle session de jeu ===
+[2025-11-09 08:50:04] [STATE] INCONNU -> MENU
+[2025-11-09 08:50:05] [INFO] Jeu initialisé
+[2025-11-09 08:50:10] [FACTORY] PieceT created
+[2025-11-09 08:50:10] [FACTORY] PieceJ created
+[2025-11-09 08:50:10] [INFO] Jeu démarré
+[2025-11-09 08:50:10] [STATE] EtatMenu -> EtatEnCours
+[2025-11-09 08:50:10] [STATE] MENU -> EN_COURS
+[2025-11-09 08:50:15] [FACTORY] PieceJ created
+[2025-11-09 08:50:17] [FACTORY] PieceZ created
+[2025-11-09 08:50:29] [INFO] === Nouvelle session de jeu ===
+[2025-11-09 08:50:29] [STATE] INCONNU -> MENU
+[2025-11-09 08:50:29] [INFO] Jeu initialisé
+[2025-11-09 08:50:33] [FACTORY] PieceS created
+[2025-11-09 08:50:33] [FACTORY] PieceT created
+[2025-11-09 08:50:33] [INFO] Jeu démarré
+[2025-11-09 08:50:33] [STATE] EtatMenu -> EtatEnCours
+[2025-11-09 08:50:33] [STATE] MENU -> EN_COURS
+[2025-11-09 08:50:36] [FACTORY] PieceI created
+[2025-11-09 08:50:37] [FACTORY] PieceS created
+[2025-11-09 08:50:38] [FACTORY] PieceI created
+[2025-11-09 08:50:39] [FACTORY] PieceT created
+[2025-11-09 08:50:40] [FACTORY] PieceZ created
+[2025-11-09 08:50:41] [FACTORY] PieceO created
+[2025-11-09 08:50:42] [FACTORY] PieceJ created
+[2025-11-09 08:50:43] [FACTORY] PieceT created
+[2025-11-09 08:56:00] [INFO] === Nouvelle session de jeu ===
+[2025-11-09 08:56:00] [STATE] INCONNU -> MENU
+[2025-11-09 08:56:00] [INFO] Jeu initialisé
+[2025-11-09 08:56:07] [FACTORY] PieceI created
+[2025-11-09 08:56:07] [FACTORY] PieceO created
+[2025-11-09 08:56:07] [INFO] Jeu démarré
+[2025-11-09 08:56:07] [STATE] EtatMenu -> EtatEnCours
+[2025-11-09 08:56:07] [STATE] MENU -> EN_COURS
+[2025-11-09 08:59:30] [INFO] === Nouvelle session de jeu ===
+[2025-11-09 08:59:30] [STATE] INCONNU -> MENU
+[2025-11-09 08:59:30] [INFO] Jeu initialisé
+[2025-11-09 08:59:36] [FACTORY] PieceO created
+[2025-11-09 08:59:36] [FACTORY] PieceS created
+[2025-11-09 08:59:36] [INFO] Jeu démarré
+[2025-11-09 08:59:36] [STATE] EtatMenu -> EtatEnCours
+[2025-11-09 08:59:36] [STATE] MENU -> EN_COURS
+[2025-11-09 08:59:53] [FACTORY] PieceI created
+[2025-11-09 09:01:07] [INFO] === Nouvelle session de jeu ===
+[2025-11-09 09:01:07] [STATE] INCONNU -> MENU
+[2025-11-09 09:01:07] [INFO] Jeu initialisé
+[2025-11-09 09:01:41] [FACTORY] PieceO created
+[2025-11-09 09:01:41] [FACTORY] PieceL created
+[2025-11-09 09:01:41] [INFO] Jeu démarré
+[2025-11-09 09:01:41] [STATE] EtatMenu -> EtatEnCours
+[2025-11-09 09:01:41] [STATE] MENU -> EN_COURS
+[2025-11-09 09:07:30] [INFO] === Nouvelle session de jeu ===
+[2025-11-09 09:07:30] [STATE] INCONNU -> MENU
+[2025-11-09 09:07:30] [INFO] Jeu initialisé
+[2025-11-09 09:07:42] [FACTORY] PieceL created
+[2025-11-09 09:07:42] [FACTORY] PieceZ created
+[2025-11-09 09:07:42] [INFO] Jeu démarré
+[2025-11-09 09:07:42] [STATE] EtatMenu -> EtatEnCours
+[2025-11-09 09:07:42] [STATE] MENU -> EN_COURS
+[2025-11-09 09:11:29] [INFO] === Nouvelle session de jeu ===
+[2025-11-09 09:11:29] [STATE] INCONNU -> MENU
+[2025-11-09 09:11:29] [INFO] Jeu initialisé
+[2025-11-09 09:11:36] [FACTORY] PieceS created
+[2025-11-09 09:11:36] [FACTORY] PieceI created
+[2025-11-09 09:11:36] [INFO] Jeu démarré
+[2025-11-09 09:11:36] [STATE] EtatMenu -> EtatEnCours
+[2025-11-09 09:11:36] [STATE] MENU -> EN_COURS
+[2025-11-09 09:19:13] [INFO] === Nouvelle session de jeu ===
+[2025-11-09 09:19:13] [STATE] INCONNU -> MENU
+[2025-11-09 09:19:13] [INFO] Jeu initialisé
+[2025-11-09 09:19:18] [FACTORY] PieceS created
+[2025-11-09 09:19:18] [FACTORY] PieceS created
+[2025-11-09 09:19:18] [INFO] Jeu démarré
+[2025-11-09 09:19:18] [STATE] EtatMenu -> EtatEnCours
+[2025-11-09 09:19:18] [STATE] MENU -> EN_COURS
+[2025-11-09 09:19:21] [FACTORY] PieceI created
+[2025-11-09 09:19:22] [FACTORY] PieceO created
+[2025-11-09 09:19:23] [FACTORY] PieceT created
+[2025-11-09 09:19:24] [FACTORY] PieceT created
+[2025-11-09 09:19:25] [FACTORY] PieceL created
+[2025-11-09 09:19:26] [FACTORY] PieceO created
+[2025-11-09 09:19:37] [INFO] === Nouvelle session de jeu ===
+[2025-11-09 09:19:37] [STATE] INCONNU -> MENU
+[2025-11-09 09:19:37] [INFO] Jeu initialisé
+[2025-11-09 09:19:42] [FACTORY] PieceI created
+[2025-11-09 09:19:42] [FACTORY] PieceZ created
+[2025-11-09 09:19:42] [INFO] Jeu démarré
+[2025-11-09 09:19:42] [STATE] EtatMenu -> EtatEnCours
+[2025-11-09 09:19:42] [STATE] MENU -> EN_COURS
+[2025-11-09 09:20:02] [FACTORY] PieceJ created
+[2025-11-09 09:20:05] [FACTORY] PieceT created
+[2025-11-09 09:20:06] [FACTORY] PieceJ created
+[2025-11-09 09:20:07] [FACTORY] PieceT created
+[2025-11-09 09:20:08] [FACTORY] PieceI created
+[2025-11-09 09:20:09] [FACTORY] PieceL created
+[2025-11-09 09:20:10] [FACTORY] PieceL created
+[2025-11-09 09:20:11] [FACTORY] PieceZ created
+[2025-11-09 09:20:12] [FACTORY] PieceL created
+[2025-11-09 09:20:13] [FACTORY] PieceZ created
+[2025-11-09 09:20:14] [STATE] EtatEnCours -> EtatGameOver
+[2025-11-09 09:20:14] [STATE] EN_COURS -> GAME_OVER
+[2025-11-09 09:20:14] [SCORE] Final score: 0
+[2025-11-09 09:20:16] [INFO] Nouveau jeu démarré
+[2025-11-09 09:20:16] [STATE] EtatGameOver -> EtatMenu
+[2025-11-09 09:20:16] [STATE] INCONNU -> MENU
+[2025-11-09 09:20:16] [FACTORY] PieceL created
+[2025-11-09 09:20:16] [FACTORY] PieceL created
+[2025-11-09 09:20:16] [INFO] Jeu démarré
+[2025-11-09 09:20:16] [STATE] EtatMenu -> EtatEnCours
+[2025-11-09 09:20:16] [STATE] MENU -> EN_COURS
+[2025-11-09 09:21:53] [INFO] === Nouvelle session de jeu ===
+[2025-11-09 09:21:53] [STATE] INCONNU -> MENU
+[2025-11-09 09:21:53] [INFO] Jeu initialisé
+[2025-11-09 09:22:11] [INFO] === Nouvelle session de jeu ===
+[2025-11-09 09:22:11] [STATE] INCONNU -> MENU
+[2025-11-09 09:22:11] [INFO] Jeu initialisé
+[2025-11-09 09:22:28] [INFO] === Nouvelle session de jeu ===
+[2025-11-09 09:22:28] [STATE] INCONNU -> MENU
+[2025-11-09 09:22:28] [INFO] Jeu initialisé
+[2025-11-09 09:22:44] [INFO] === Nouvelle session de jeu ===
+[2025-11-09 09:22:44] [STATE] INCONNU -> MENU
+[2025-11-09 09:22:44] [INFO] Jeu initialisé
+[2025-11-09 09:22:49] [FACTORY] PieceZ created
+[2025-11-09 09:22:49] [FACTORY] PieceI created
+[2025-11-09 09:22:49] [INFO] Jeu démarré
+[2025-11-09 09:22:49] [STATE] EtatMenu -> EtatEnCours
+[2025-11-09 09:22:49] [STATE] MENU -> EN_COURS
+[2025-11-09 09:22:53] [FACTORY] PieceZ created
+[2025-11-09 09:22:55] [FACTORY] PieceT created
+[2025-11-09 09:22:57] [FACTORY] PieceZ created
+[2025-11-09 09:22:58] [FACTORY] PieceO created
+[2025-11-09 09:22:59] [FACTORY] PieceZ created
+[2025-11-09 09:23:00] [FACTORY] PieceI created
+[2025-11-09 09:23:01] [FACTORY] PieceS created
+[2025-11-09 09:27:19] [INFO] === Nouvelle session de jeu ===
+[2025-11-09 09:27:19] [STATE] INCONNU -> MENU
+[2025-11-09 09:27:19] [INFO] Jeu initialisé
+[2025-11-09 09:27:22] [FACTORY] PieceZ created
+[2025-11-09 09:27:22] [FACTORY] PieceI created
+[2025-11-09 09:27:22] [INFO] Jeu démarré
+[2025-11-09 09:27:22] [STATE] EtatMenu -> EtatEnCours
+[2025-11-09 09:27:22] [STATE] MENU -> EN_COURS
+[2025-11-09 09:27:24] [FACTORY] PieceJ created
+[2025-11-09 09:27:26] [FACTORY] PieceZ created
+[2025-11-09 09:27:36] [FACTORY] PieceI created
+[2025-11-09 09:32:36] [INFO] === Nouvelle session de jeu ===
+[2025-11-09 09:32:36] [STATE] INCONNU -> MENU
+[2025-11-09 09:32:36] [INFO] Jeu initialisé
+[2025-11-09 09:32:39] [FACTORY] PieceJ created
+[2025-11-09 09:32:39] [FACTORY] PieceL created
+[2025-11-09 09:32:39] [INFO] Jeu démarré
+[2025-11-09 09:32:39] [STATE] EtatMenu -> EtatEnCours
+[2025-11-09 09:32:39] [STATE] MENU -> EN_COURS
+[2025-11-09 09:32:42] [FACTORY] PieceJ created
+[2025-11-09 09:35:15] [INFO] === Nouvelle session de jeu ===
+[2025-11-09 09:35:15] [STATE] INCONNU -> MENU
+[2025-11-09 09:35:15] [INFO] Jeu initialisé
+[2025-11-09 09:35:17] [FACTORY] PieceS created
+[2025-11-09 09:35:17] [FACTORY] PieceT created
+[2025-11-09 09:35:17] [INFO] Jeu démarré
+[2025-11-09 09:35:17] [STATE] EtatMenu -> EtatEnCours
+[2025-11-09 09:35:17] [STATE] MENU -> EN_COURS
+[2025-11-09 09:35:21] [FACTORY] PieceO created
+[2025-11-09 09:35:24] [FACTORY] PieceZ created
+[2025-11-09 09:35:26] [FACTORY] PieceL created
+[2025-11-09 09:35:30] [FACTORY] PieceL created
+[2025-11-09 09:35:35] [FACTORY] PieceO created
+[2025-11-09 09:35:40] [FACTORY] PieceS created
+[2025-11-09 09:35:43] [FACTORY] PieceJ created
+[2025-11-09 09:35:46] [FACTORY] PieceI created
+[2025-11-09 09:35:50] [FACTORY] PieceZ created
+[2025-11-09 09:35:53] [GAME] 2 line(s) cleared
+[2025-11-09 09:35:53] [FACTORY] PieceJ created
+[2025-11-09 09:35:58] [GAME] 1 line(s) cleared
+[2025-11-09 09:35:58] [FACTORY] PieceI created
+[2025-11-09 09:36:04] [FACTORY] PieceL created
+[2025-11-09 09:36:09] [FACTORY] PieceZ created
+[2025-11-09 09:36:13] [FACTORY] PieceJ created
+[2025-11-09 09:36:18] [FACTORY] PieceL created
+[2025-11-09 09:36:22] [GAME] 1 line(s) cleared
+[2025-11-09 09:36:22] [FACTORY] PieceI created
+[2025-11-09 09:36:29] [FACTORY] PieceS created
+[2025-11-09 09:36:34] [GAME] 2 line(s) cleared
+[2025-11-09 09:36:34] [FACTORY] PieceZ created
+[2025-11-09 09:36:38] [GAME] 1 line(s) cleared
+[2025-11-09 09:36:38] [FACTORY] PieceO created
+[2025-11-09 09:36:40] [STATE] EtatEnCours -> EtatPause
+[2025-11-09 09:36:40] [STATE] EN_COURS -> PAUSE
+[2025-11-09 09:36:45] [STATE] EtatPause -> EtatEnCours
+[2025-11-09 09:36:45] [STATE] MENU -> EN_COURS
+[2025-11-09 09:36:49] [FACTORY] PieceI created
+[2025-11-09 09:36:57] [FACTORY] PieceL created
+[2025-11-09 09:37:01] [FACTORY] PieceZ created
+[2025-11-09 09:37:05] [GAME] 1 line(s) cleared
+[2025-11-09 09:37:05] [FACTORY] PieceT created
+[2025-11-09 09:37:09] [FACTORY] PieceJ created
+[2025-11-09 09:37:13] [FACTORY] PieceO created
+[2025-11-09 09:37:17] [GAME] 1 line(s) cleared
+[2025-11-09 09:37:17] [FACTORY] PieceZ created
+[2025-11-09 09:37:20] [FACTORY] PieceS created
+[2025-11-09 09:37:23] [INFO] Niveau 2 atteint !
+[2025-11-09 09:37:23] [GAME] 1 line(s) cleared
+[2025-11-09 09:37:23] [FACTORY] PieceI created
+[2025-11-09 09:37:28] [FACTORY] PieceZ created
+[2025-11-09 09:37:32] [FACTORY] PieceL created
+[2025-11-09 09:37:35] [FACTORY] PieceO created
+[2025-11-09 09:37:39] [FACTORY] PieceL created
+[2025-11-09 09:37:41] [FACTORY] PieceO created
+[2025-11-09 09:37:45] [GAME] 3 line(s) cleared
+[2025-11-09 09:37:45] [FACTORY] PieceO created
+[2025-11-09 09:37:48] [FACTORY] PieceT created
+[2025-11-09 09:37:50] [FACTORY] PieceT created
+[2025-11-09 09:37:54] [FACTORY] PieceL created
+[2025-11-09 09:37:58] [GAME] 2 line(s) cleared
+[2025-11-09 09:37:58] [FACTORY] PieceS created
+[2025-11-09 09:38:02] [FACTORY] PieceO created
+[2025-11-09 09:38:05] [FACTORY] PieceZ created
+[2025-11-09 09:38:08] [FACTORY] PieceS created
+[2025-11-09 09:38:11] [FACTORY] PieceS created
+[2025-11-09 09:38:14] [FACTORY] PieceJ created
+[2025-11-09 09:38:18] [FACTORY] PieceI created
+[2025-11-09 09:38:21] [GAME] 1 line(s) cleared
+[2025-11-09 09:38:21] [FACTORY] PieceZ created
+[2025-11-09 09:38:27] [GAME] 1 line(s) cleared
+[2025-11-09 09:38:27] [FACTORY] PieceS created
+[2025-11-09 09:38:30] [FACTORY] PieceJ created
+[2025-11-09 09:38:32] [FACTORY] PieceT created
+[2025-11-09 09:38:36] [GAME] 1 line(s) cleared
+[2025-11-09 09:38:36] [FACTORY] PieceI created
+[2025-11-09 09:38:39] [GAME] 1 line(s) cleared
+[2025-11-09 09:38:39] [FACTORY] PieceI created
+[2025-11-09 09:38:41] [FACTORY] PieceJ created
+[2025-11-09 09:38:46] [FACTORY] PieceO created
+[2025-11-09 09:38:51] [FACTORY] PieceI created
+[2025-11-09 09:38:54] [FACTORY] PieceT created
+[2025-11-09 09:38:59] [FACTORY] PieceL created
+[2025-11-09 09:39:03] [FACTORY] PieceT created
+[2025-11-09 09:39:07] [INFO] Niveau 3 atteint !
+[2025-11-09 09:39:07] [GAME] 2 line(s) cleared
+[2025-11-09 09:39:07] [FACTORY] PieceJ created
+[2025-11-09 09:39:10] [GAME] 1 line(s) cleared
+[2025-11-09 09:39:10] [FACTORY] PieceT created
+[2025-11-09 09:39:14] [FACTORY] PieceI created
+[2025-11-09 09:39:19] [FACTORY] PieceZ created
+[2025-11-09 09:39:23] [GAME] 2 line(s) cleared
+[2025-11-09 09:39:23] [FACTORY] PieceT created
+[2025-11-09 09:39:26] [FACTORY] PieceJ created
+[2025-11-09 09:39:31] [FACTORY] PieceT created
+[2025-11-09 09:39:35] [FACTORY] PieceT created
+[2025-11-09 09:39:39] [FACTORY] PieceZ created
+[2025-11-09 09:39:41] [FACTORY] PieceI created
+[2025-11-09 09:39:44] [FACTORY] PieceL created
+[2025-11-09 09:39:49] [FACTORY] PieceS created
+[2025-11-09 09:39:55] [FACTORY] PieceI created
+[2025-11-09 09:39:58] [FACTORY] PieceL created
+[2025-11-09 09:40:01] [GAME] 2 line(s) cleared
+[2025-11-09 09:40:01] [FACTORY] PieceO created
+[2025-11-09 09:40:07] [FACTORY] PieceO created
+[2025-11-09 09:40:10] [FACTORY] PieceO created
+[2025-11-09 09:40:13] [FACTORY] PieceS created
+[2025-11-09 09:40:16] [FACTORY] PieceJ created
+[2025-11-09 09:40:19] [FACTORY] PieceZ created
+[2025-11-09 09:40:22] [FACTORY] PieceS created
+[2025-11-09 09:40:25] [FACTORY] PieceS created
+[2025-11-09 09:40:28] [FACTORY] PieceO created
+[2025-11-09 09:40:32] [FACTORY] PieceT created
+[2025-11-09 09:40:36] [FACTORY] PieceI created
+[2025-11-09 09:40:41] [FACTORY] PieceL created
+[2025-11-09 09:40:44] [GAME] 2 line(s) cleared
+[2025-11-09 09:40:44] [FACTORY] PieceL created
+[2025-11-09 09:40:49] [GAME] 1 line(s) cleared
+[2025-11-09 09:40:49] [FACTORY] PieceI created
+[2025-11-09 09:40:51] [FACTORY] PieceJ created
+[2025-11-09 09:40:52] [FACTORY] PieceT created
+[2025-11-09 09:40:53] [FACTORY] PieceZ created
+[2025-11-09 09:40:54] [FACTORY] PieceS created
+[2025-11-09 09:40:55] [FACTORY] PieceL created
+[2025-11-09 09:40:56] [FACTORY] PieceT created
+[2025-11-09 09:40:57] [FACTORY] PieceI created
+[2025-11-09 09:40:58] [STATE] EtatEnCours -> EtatGameOver
+[2025-11-09 09:40:58] [STATE] EN_COURS -> GAME_OVER
+[2025-11-09 09:40:58] [SCORE] Final score: 7900
+[2025-11-09 09:41:01] [INFO] Nouveau jeu démarré
+[2025-11-09 09:41:01] [STATE] EtatGameOver -> EtatMenu
+[2025-11-09 09:41:01] [STATE] INCONNU -> MENU
+[2025-11-09 09:41:01] [FACTORY] PieceS created
+[2025-11-09 09:41:03] [FACTORY] PieceO created
+[2025-11-09 09:41:03] [INFO] Jeu démarré
+[2025-11-09 09:41:03] [STATE] EtatMenu -> EtatEnCours
+[2025-11-09 09:41:03] [STATE] MENU -> EN_COURS
+[2025-11-09 09:41:09] [FACTORY] PieceL created
+[2025-11-09 09:41:30] [INFO] === Nouvelle session de jeu ===
+[2025-11-09 09:41:30] [STATE] INCONNU -> MENU
+[2025-11-09 09:41:30] [INFO] Jeu initialisé
+[2025-11-09 09:42:46] [INFO] === Nouvelle session de jeu ===
+[2025-11-09 09:42:46] [STATE] INCONNU -> MENU
+[2025-11-09 09:42:46] [INFO] Jeu initialisé
+[2025-11-09 09:42:55] [FACTORY] PieceS created
+[2025-11-09 09:42:55] [FACTORY] PieceO created
+[2025-11-09 09:42:55] [INFO] Jeu démarré
+[2025-11-09 09:42:55] [STATE] EtatMenu -> EtatEnCours
+[2025-11-09 09:42:55] [STATE] MENU -> EN_COURS
+[2025-11-09 09:42:59] [FACTORY] PieceL created
+[2025-11-09 09:43:02] [FACTORY] PieceO created
+[2025-11-09 09:43:05] [FACTORY] PieceO created
+[2025-11-09 09:43:08] [FACTORY] PieceS created
+[2025-11-09 09:43:11] [FACTORY] PieceJ created
+[2025-11-09 09:43:14] [FACTORY] PieceZ created
+[2025-11-09 09:43:19] [FACTORY] PieceZ created
+[2025-11-09 09:43:25] [GAME] 1 line(s) cleared
+[2025-11-09 09:43:25] [FACTORY] PieceL created
+[2025-11-09 09:43:31] [FACTORY] PieceS created
+[2025-11-09 09:43:37] [GAME] 1 line(s) cleared
+[2025-11-09 09:43:37] [FACTORY] PieceS created
+[2025-11-09 09:43:41] [FACTORY] PieceJ created
+[2025-11-09 09:43:46] [FACTORY] PieceO created
+[2025-11-09 09:43:56] [FACTORY] PieceL created
+[2025-11-09 09:43:59] [FACTORY] PieceS created
+[2025-11-09 09:57:24] [INFO] === Nouvelle session de jeu ===
+[2025-11-09 09:57:24] [STATE] INCONNU -> MENU
+[2025-11-09 09:57:24] [INFO] Jeu initialisé
+[2025-11-09 10:05:04] [INFO] === Nouvelle session de jeu ===
+[2025-11-09 10:05:04] [STATE] INCONNU -> MENU
+[2025-11-09 10:05:04] [INFO] Jeu initialisé
+[2025-11-09 10:05:07] [FACTORY] PieceS created
+[2025-11-09 10:05:07] [FACTORY] PieceL created
+[2025-11-09 10:05:07] [INFO] Jeu démarré
+[2025-11-09 10:05:07] [STATE] EtatMenu -> EtatEnCours
+[2025-11-09 10:05:07] [STATE] MENU -> EN_COURS
+[2025-11-09 10:05:11] [FACTORY] PieceI created
+[2025-11-09 10:05:21] [FACTORY] PieceL created
+[2025-11-09 10:05:26] [FACTORY] PieceS created
+[2025-11-09 10:05:33] [FACTORY] PieceO created
+[2025-11-09 10:05:37] [FACTORY] PieceL created
+[2025-11-09 10:05:41] [FACTORY] PieceS created
+[2025-11-09 10:05:44] [FACTORY] PieceZ created
+[2025-11-09 10:05:50] [FACTORY] PieceO created
+[2025-11-09 10:05:53] [FACTORY] PieceT created
+[2025-11-09 10:05:57] [FACTORY] PieceJ created
+[2025-11-09 10:06:01] [FACTORY] PieceJ created
+[2025-11-09 10:06:05] [FACTORY] PieceT created
+[2025-11-09 10:06:11] [FACTORY] PieceL created
+[2025-11-09 10:06:14] [FACTORY] PieceJ created
+[2025-11-09 10:06:18] [FACTORY] PieceI created
+[2025-11-09 10:06:20] [FACTORY] PieceT created
+[2025-11-09 10:06:23] [GAME] 3 line(s) cleared
+[2025-11-09 10:06:23] [FACTORY] PieceS created
+[2025-11-09 10:06:27] [GAME] 1 line(s) cleared
+[2025-11-09 10:06:27] [FACTORY] PieceI created
+[2025-11-09 10:06:30] [FACTORY] PieceS created
+[2025-11-09 10:06:33] [GAME] 1 line(s) cleared
+[2025-11-09 10:06:33] [FACTORY] PieceI created
+[2025-11-09 10:06:36] [GAME] 1 line(s) cleared
+[2025-11-09 10:06:36] [FACTORY] PieceZ created
+[2025-11-09 10:06:39] [GAME] 1 line(s) cleared
+[2025-11-09 10:06:39] [FACTORY] PieceO created
+[2025-11-09 10:06:42] [FACTORY] PieceS created
+[2025-11-09 10:06:44] [FACTORY] PieceJ created
+[2025-11-09 10:06:47] [FACTORY] PieceJ created
+[2025-11-09 10:06:51] [FACTORY] PieceO created
+[2025-11-09 10:06:55] [FACTORY] PieceT created
+[2025-11-09 10:06:59] [FACTORY] PieceS created
+[2025-11-09 10:07:01] [FACTORY] PieceS created
+[2025-11-09 10:07:06] [FACTORY] PieceS created
+[2025-11-09 10:07:08] [FACTORY] PieceI created
+[2025-11-09 10:07:11] [FACTORY] PieceL created
+[2025-11-09 10:07:13] [GAME] 2 line(s) cleared
+[2025-11-09 10:07:13] [FACTORY] PieceS created
+[2025-11-09 10:07:17] [FACTORY] PieceI created
+[2025-11-09 10:07:21] [FACTORY] PieceZ created
+[2025-11-09 10:07:24] [INFO] Niveau 2 atteint !
+[2025-11-09 10:07:24] [GAME] 2 line(s) cleared
+[2025-11-09 10:07:24] [FACTORY] PieceS created
+[2025-11-09 10:07:27] [GAME] 1 line(s) cleared
+[2025-11-09 10:07:27] [FACTORY] PieceO created
+[2025-11-09 10:07:30] [GAME] 1 line(s) cleared
+[2025-11-09 10:07:30] [FACTORY] PieceI created
+[2025-11-09 10:07:33] [FACTORY] PieceS created
+[2025-11-09 10:07:36] [FACTORY] PieceJ created
+[2025-11-09 10:07:39] [GAME] 1 line(s) cleared
+[2025-11-09 10:07:39] [FACTORY] PieceT created
+[2025-11-09 10:07:47] [FACTORY] PieceZ created
+[2025-11-09 10:07:50] [FACTORY] PieceZ created
+[2025-11-09 10:07:53] [FACTORY] PieceJ created
+[2025-11-09 10:07:57] [FACTORY] PieceL created
+[2025-11-09 10:08:01] [GAME] 1 line(s) cleared
+[2025-11-09 10:08:01] [FACTORY] PieceT created
+[2025-11-09 10:08:03] [FACTORY] PieceJ created
+[2025-11-09 10:08:06] [GAME] 2 line(s) cleared
+[2025-11-09 10:08:06] [FACTORY] PieceT created
+[2025-11-09 10:08:08] [FACTORY] PieceL created
+[2025-11-09 10:08:13] [FACTORY] PieceJ created
+[2025-11-09 10:08:21] [FACTORY] PieceT created
+[2025-11-09 10:08:25] [FACTORY] PieceS created
+[2025-11-09 10:08:28] [FACTORY] PieceL created
+[2025-11-09 10:08:30] [FACTORY] PieceL created
+[2025-11-09 10:08:33] [FACTORY] PieceJ created
+[2025-11-09 10:08:36] [FACTORY] PieceZ created
+[2025-11-09 10:08:39] [FACTORY] PieceS created
+[2025-11-09 10:08:42] [FACTORY] PieceL created
+[2025-11-09 10:08:46] [FACTORY] PieceL created
+[2025-11-09 10:08:49] [FACTORY] PieceL created
+[2025-11-09 10:08:53] [FACTORY] PieceL created
+[2025-11-09 10:08:56] [FACTORY] PieceZ created
+[2025-11-09 10:09:03] [GAME] 1 line(s) cleared
+[2025-11-09 10:09:03] [FACTORY] PieceL created
+[2025-11-09 10:09:07] [GAME] 1 line(s) cleared
+[2025-11-09 10:09:07] [FACTORY] PieceS created
+[2025-11-09 10:09:10] [FACTORY] PieceS created
+[2025-11-09 10:09:13] [FACTORY] PieceJ created
+[2025-11-09 10:09:16] [FACTORY] PieceS created
+[2025-11-09 10:09:18] [FACTORY] PieceS created
+[2025-11-09 10:09:22] [INFO] Niveau 3 atteint !
+[2025-11-09 10:09:22] [GAME] 1 line(s) cleared
+[2025-11-09 10:09:22] [FACTORY] PieceI created
+[2025-11-09 10:09:25] [FACTORY] PieceI created
+[2025-11-09 10:09:28] [GAME] 4 line(s) cleared
+[2025-11-09 10:09:28] [FACTORY] PieceZ created
+[2025-11-09 10:09:33] [GAME] 2 line(s) cleared
+[2025-11-09 10:09:33] [FACTORY] PieceT created
+[2025-11-09 10:09:37] [GAME] 1 line(s) cleared
+[2025-11-09 10:09:37] [FACTORY] PieceL created
+[2025-11-09 10:09:42] [FACTORY] PieceZ created
+[2025-11-09 10:09:46] [FACTORY] PieceI created
+[2025-11-09 10:09:50] [FACTORY] PieceJ created
+[2025-11-09 10:09:53] [FACTORY] PieceO created
+[2025-11-09 10:09:57] [FACTORY] PieceZ created
+[2025-11-09 10:10:01] [FACTORY] PieceZ created
+[2025-11-09 10:10:03] [FACTORY] PieceS created
+[2025-11-09 10:10:07] [GAME] 1 line(s) cleared
+[2025-11-09 10:10:07] [FACTORY] PieceS created
+[2025-11-09 10:10:10] [FACTORY] PieceZ created
+[2025-11-09 10:10:15] [FACTORY] PieceS created
+[2025-11-09 10:10:18] [GAME] 1 line(s) cleared
+[2025-11-09 10:10:18] [FACTORY] PieceT created
+[2025-11-09 10:10:22] [FACTORY] PieceT created
+[2025-11-09 10:10:25] [FACTORY] PieceO created
+[2025-11-09 10:10:28] [FACTORY] PieceO created
+[2025-11-09 10:10:31] [FACTORY] PieceO created
+[2025-11-09 10:10:34] [FACTORY] PieceZ created
+[2025-11-09 10:10:37] [FACTORY] PieceJ created
+[2025-11-09 10:10:39] [FACTORY] PieceJ created
+[2025-11-09 10:10:42] [FACTORY] PieceT created
+[2025-11-09 10:10:45] [FACTORY] PieceI created
+[2025-11-09 10:10:49] [INFO] Niveau 4 atteint !
+[2025-11-09 10:10:49] [GAME] 2 line(s) cleared
+[2025-11-09 10:10:49] [FACTORY] PieceS created
+[2025-11-09 10:10:52] [GAME] 1 line(s) cleared
+[2025-11-09 10:10:52] [FACTORY] PieceS created
+[2025-11-09 10:10:55] [FACTORY] PieceT created
+[2025-11-09 10:10:57] [FACTORY] PieceI created
+[2025-11-09 10:11:00] [FACTORY] PieceO created
+[2025-11-09 10:11:04] [GAME] 1 line(s) cleared
+[2025-11-09 10:11:04] [FACTORY] PieceL created
+[2025-12-21 16:53:10] [INFO] === Nouvelle session de jeu ===
+[2025-12-21 16:53:10] [STATE] INCONNU -> MENU
+[2025-12-21 16:53:10] [INFO] Jeu initialisé
+[2025-12-21 16:53:22] [FACTORY] PieceI created
+[2025-12-21 16:53:22] [FACTORY] PieceT created
+[2025-12-21 16:53:22] [INFO] Jeu démarré
+[2025-12-21 16:53:22] [STATE] EtatMenu -> EtatEnCours
+[2025-12-21 16:53:22] [STATE] MENU -> EN_COURS
+[2025-12-21 16:53:26] [FACTORY] PieceS created
+[2025-12-21 16:53:29] [STATE] EtatEnCours -> EtatPause
+[2025-12-21 16:53:29] [STATE] EN_COURS -> PAUSE
+[2025-12-21 16:53:34] [STATE] EtatPause -> EtatEnCours
+[2025-12-21 16:53:34] [STATE] MENU -> EN_COURS
+[2025-12-21 16:53:34] [FACTORY] PieceT created
+[2025-12-21 16:53:38] [STATE] EtatEnCours -> EtatPause
+[2025-12-21 16:53:38] [STATE] EN_COURS -> PAUSE
+[2025-12-21 16:53:40] [STATE] EtatPause -> EtatEnCours
+[2025-12-21 16:53:40] [STATE] MENU -> EN_COURS
+[2025-12-21 16:53:42] [FACTORY] PieceJ created
+[2025-12-21 16:53:50] [GAME] 1 line(s) cleared
+[2025-12-21 16:53:51] [FACTORY] PieceJ created
+[2025-12-21 16:53:56] [FACTORY] PieceL created
+[2025-12-21 16:54:02] [FACTORY] PieceI created
+[2025-12-21 16:54:04] [FACTORY] PieceT created
+[2025-12-21 16:54:09] [GAME] 1 line(s) cleared
+[2025-12-21 16:54:09] [FACTORY] PieceI created
+[2025-12-21 16:54:14] [GAME] 1 line(s) cleared
+[2025-12-21 16:54:14] [FACTORY] PieceL created
+[2025-12-21 16:54:21] [FACTORY] PieceT created
+[2025-12-21 16:54:24] [FACTORY] PieceL created
+[2025-12-21 16:54:27] [FACTORY] PieceS created
+[2025-12-21 16:54:31] [FACTORY] PieceZ created
+[2025-12-21 16:54:37] [FACTORY] PieceO created
+[2025-12-21 16:54:42] [GAME] 1 line(s) cleared
+[2025-12-21 16:54:42] [FACTORY] PieceS created
+[2025-12-21 16:54:48] [FACTORY] PieceI created
+[2025-12-21 16:54:52] [FACTORY] PieceO created
+[2025-12-21 16:54:55] [FACTORY] PieceZ created
+[2025-12-21 16:55:01] [FACTORY] PieceJ created
+[2025-12-21 16:55:04] [FACTORY] PieceL created
+[2025-12-21 16:55:07] [FACTORY] PieceI created
+[2025-12-21 16:55:11] [FACTORY] PieceO created
+[2025-12-21 16:55:14] [GAME] 1 line(s) cleared
+[2025-12-21 16:55:14] [FACTORY] PieceT created
+[2025-12-21 16:55:17] [FACTORY] PieceL created
+[2025-12-21 16:55:21] [FACTORY] PieceT created
+[2025-12-21 16:55:27] [FACTORY] PieceL created
+[2025-12-21 16:55:31] [GAME] 2 line(s) cleared
+[2025-12-21 16:55:31] [FACTORY] PieceO created
+[2025-12-21 16:55:37] [FACTORY] PieceZ created
+[2025-12-21 16:55:40] [FACTORY] PieceJ created
+[2025-12-21 16:55:43] [FACTORY] PieceZ created
+[2025-12-21 16:55:47] [FACTORY] PieceO created
+[2025-12-21 16:55:50] [FACTORY] PieceI created
+[2025-12-21 16:55:53] [FACTORY] PieceL created
+[2025-12-21 16:55:56] [GAME] 1 line(s) cleared
+[2025-12-21 16:55:56] [FACTORY] PieceO created
+[2025-12-21 16:56:03] [FACTORY] PieceZ created
+[2025-12-21 16:56:06] [FACTORY] PieceZ created
+[2025-12-21 16:56:07] [FACTORY] PieceJ created
+[2025-12-21 16:56:10] [FACTORY] PieceO created
+[2025-12-21 16:56:14] [INFO] Niveau 2 atteint !
+[2025-12-21 16:56:14] [GAME] 2 line(s) cleared
+[2025-12-21 16:56:14] [FACTORY] PieceI created
+[2025-12-21 16:56:17] [GAME] 1 line(s) cleared
+[2025-12-21 16:56:17] [FACTORY] PieceZ created
+[2025-12-21 16:56:21] [FACTORY] PieceI created
+[2025-12-21 16:56:24] [GAME] 2 line(s) cleared
+[2025-12-21 16:56:24] [FACTORY] PieceS created
+[2025-12-21 16:56:30] [FACTORY] PieceZ created
+[2025-12-21 16:56:34] [FACTORY] PieceI created
+[2025-12-21 16:56:38] [FACTORY] PieceI created
+[2025-12-21 16:56:42] [FACTORY] PieceL created
+[2025-12-21 16:56:45] [FACTORY] PieceS created
+[2025-12-21 16:56:49] [FACTORY] PieceJ created
+[2025-12-21 16:56:53] [FACTORY] PieceT created
+[2025-12-21 16:56:58] [FACTORY] PieceS created
+[2025-12-21 16:57:01] [FACTORY] PieceZ created
+[2025-12-21 16:57:04] [FACTORY] PieceO created
+[2025-12-21 16:57:07] [FACTORY] PieceI created
+[2025-12-21 16:57:09] [FACTORY] PieceO created
+[2025-12-21 16:57:12] [GAME] 1 line(s) cleared
+[2025-12-21 16:57:12] [FACTORY] PieceZ created
+[2025-12-21 16:57:16] [GAME] 1 line(s) cleared
+[2025-12-21 16:57:16] [FACTORY] PieceL created
+[2025-12-21 16:57:19] [FACTORY] PieceJ created
+[2025-12-21 16:57:22] [GAME] 1 line(s) cleared
+[2025-12-21 16:57:22] [FACTORY] PieceJ created
+[2025-12-21 16:57:27] [FACTORY] PieceT created
+[2025-12-21 16:57:31] [GAME] 1 line(s) cleared
+[2025-12-21 16:57:31] [FACTORY] PieceS created
+[2025-12-21 16:57:35] [FACTORY] PieceZ created
+[2025-12-21 16:57:39] [FACTORY] PieceL created
+[2025-12-21 16:57:42] [FACTORY] PieceI created
+[2025-12-21 16:57:47] [FACTORY] PieceS created
+[2025-12-21 16:57:51] [GAME] 2 line(s) cleared
+[2025-12-21 16:57:51] [FACTORY] PieceL created
+[2025-12-21 16:57:53] [FACTORY] PieceZ created
+[2025-12-21 16:57:58] [FACTORY] PieceI created
+[2025-12-21 16:58:02] [FACTORY] PieceT created
+[2025-12-21 16:58:05] [INFO] Niveau 3 atteint !
+[2025-12-21 16:58:05] [GAME] 3 line(s) cleared
+[2025-12-21 16:58:05] [FACTORY] PieceL created
+[2025-12-21 16:58:09] [FACTORY] PieceZ created
+[2025-12-21 16:58:14] [FACTORY] PieceS created
+[2025-12-21 16:58:18] [GAME] 1 line(s) cleared
+[2025-12-21 16:58:18] [FACTORY] PieceZ created
+[2025-12-21 16:58:21] [FACTORY] PieceS created
+[2025-12-21 16:58:24] [FACTORY] PieceO created
+[2025-12-21 16:58:27] [FACTORY] PieceT created
+[2025-12-21 16:58:29] [FACTORY] PieceJ created
+[2025-12-21 16:58:31] [FACTORY] PieceZ created
+[2025-12-21 16:58:34] [FACTORY] PieceL created
+[2025-12-21 16:58:37] [FACTORY] PieceT created
+[2025-12-21 16:58:41] [GAME] 2 line(s) cleared
+[2025-12-21 16:58:41] [FACTORY] PieceZ created
+[2025-12-21 16:58:47] [FACTORY] PieceL created
+[2025-12-21 16:58:50] [FACTORY] PieceI created
+[2025-12-21 16:58:53] [GAME] 1 line(s) cleared
+[2025-12-21 16:58:53] [FACTORY] PieceO created
+[2025-12-21 16:58:56] [GAME] 1 line(s) cleared
+[2025-12-21 16:58:56] [FACTORY] PieceI created
+[2025-12-21 16:58:59] [FACTORY] PieceL created
+[2025-12-21 16:59:02] [FACTORY] PieceL created
+[2025-12-21 16:59:06] [FACTORY] PieceO created
+[2025-12-21 16:59:10] [FACTORY] PieceT created
+[2025-12-21 16:59:12] [FACTORY] PieceL created
+[2025-12-21 16:59:15] [GAME] 2 line(s) cleared
+[2025-12-21 16:59:15] [FACTORY] PieceL created
+[2025-12-21 16:59:18] [FACTORY] PieceT created
+[2025-12-21 16:59:22] [FACTORY] PieceZ created
+[2025-12-21 16:59:25] [INFO] Niveau 4 atteint !
+[2025-12-21 16:59:25] [GAME] 1 line(s) cleared
+[2025-12-21 16:59:25] [FACTORY] PieceO created
+[2025-12-21 16:59:29] [FACTORY] PieceI created
+[2025-12-21 16:59:32] [FACTORY] PieceI created
+[2025-12-21 16:59:35] [FACTORY] PieceJ created
+[2025-12-21 16:59:41] [FACTORY] PieceI created
+[2025-12-21 16:59:46] [FACTORY] PieceS created
+[2025-12-21 16:59:48] [FACTORY] PieceS created
+[2025-12-21 16:59:49] [FACTORY] PieceO created
+[2025-12-21 16:59:51] [STATE] EtatEnCours -> EtatGameOver
+[2025-12-21 16:59:51] [STATE] EN_COURS -> GAME_OVER
+[2025-12-21 16:59:51] [SCORE] Final score: 8300
+[2025-12-21 18:38:49] [INFO] === Nouvelle session de jeu ===
+[2025-12-21 18:38:49] [STATE] INCONNU -> MENU
+[2025-12-21 18:38:49] [INFO] Jeu initialisé
+[2025-12-21 18:39:13] [FACTORY] PieceJ created
+[2025-12-21 18:39:13] [FACTORY] PieceI created
+[2025-12-21 18:39:13] [INFO] Jeu démarré
+[2025-12-21 18:39:13] [STATE] EtatMenu -> EtatEnCours
+[2025-12-21 18:39:13] [STATE] MENU -> EN_COURS
+[2025-12-21 18:39:18] [FACTORY] PieceZ created
+[2025-12-21 18:39:19] [FACTORY] PieceL created
+[2025-12-21 18:39:20] [FACTORY] PieceS created
+[2025-12-21 18:39:21] [FACTORY] PieceS created
+[2025-12-21 18:39:22] [FACTORY] PieceT created
+[2025-12-21 18:39:23] [FACTORY] PieceT created
+[2025-12-21 18:39:24] [FACTORY] PieceS created
+[2025-12-21 18:39:25] [FACTORY] PieceL created
+[2025-12-21 18:39:26] [FACTORY] PieceT created
+[2025-12-21 18:39:27] [STATE] EtatEnCours -> EtatGameOver
+[2025-12-21 18:39:27] [STATE] EN_COURS -> GAME_OVER
+[2025-12-21 18:39:27] [SCORE] Final score: 100
+[2025-12-21 18:39:30] [INFO] Nouveau jeu démarré
+[2025-12-21 18:39:30] [STATE] EtatGameOver -> EtatMenu
+[2025-12-21 18:39:30] [STATE] INCONNU -> MENU
+[2025-12-21 18:39:30] [FACTORY] PieceT created
+[2025-12-21 18:40:14] [INFO] === Nouvelle session de jeu ===
+[2025-12-21 18:40:14] [STATE] INCONNU -> MENU
+[2025-12-21 18:40:14] [INFO] Jeu initialisé
+[2025-12-21 18:47:28] [INFO] === Nouvelle session de jeu ===
+[2025-12-21 18:47:28] [STATE] INCONNU -> MENU
+[2025-12-21 18:47:28] [INFO] Jeu initialisé
+[2025-12-21 18:47:35] [FACTORY] PieceI created
+[2025-12-21 18:47:35] [FACTORY] PieceI created
+[2025-12-21 18:47:35] [INFO] Jeu démarré
+[2025-12-21 18:47:35] [STATE] EtatMenu -> EtatEnCours
+[2025-12-21 18:47:35] [STATE] MENU -> EN_COURS
+[2025-12-21 18:47:38] [FACTORY] PieceT created
+[2025-12-21 18:52:10] [INFO] === Nouvelle session de jeu ===
+[2025-12-21 18:52:10] [STATE] INCONNU -> MENU
+[2025-12-21 18:52:10] [INFO] Jeu initialisé
+[2025-12-21 18:52:25] [FACTORY] PieceZ created
+[2025-12-21 18:52:25] [FACTORY] PieceZ created
+[2025-12-21 18:52:25] [INFO] Jeu démarré
+[2025-12-21 18:52:25] [STATE] EtatMenu -> EtatEnCours
+[2025-12-21 18:52:25] [STATE] MENU -> EN_COURS
+[2025-12-21 18:52:28] [FACTORY] PieceI created
+[2025-12-21 18:52:29] [FACTORY] PieceS created
+[2025-12-21 18:52:48] [INFO] === Nouvelle session de jeu ===
+[2025-12-21 18:52:48] [STATE] INCONNU -> MENU
+[2025-12-21 18:52:48] [INFO] Jeu initialisé
+[2025-12-21 18:52:51] [FACTORY] PieceI created
+[2025-12-21 18:52:51] [FACTORY] PieceZ created
+[2025-12-21 18:52:51] [INFO] Jeu démarré
+[2025-12-21 18:52:51] [STATE] EtatMenu -> EtatEnCours
+[2025-12-21 18:52:51] [STATE] MENU -> EN_COURS
+[2025-12-21 18:58:55] [INFO] === Nouvelle session de jeu ===
+[2025-12-21 18:58:55] [STATE] INCONNU -> MENU
+[2025-12-21 18:58:56] [INFO] Jeu initialisé
+[2025-12-21 18:59:00] [FACTORY] PieceL created
+[2025-12-21 18:59:00] [FACTORY] PieceI created
+[2025-12-21 18:59:00] [INFO] Jeu démarré
+[2025-12-21 18:59:00] [STATE] EtatMenu -> EtatEnCours
+[2025-12-21 18:59:00] [STATE] MENU -> EN_COURS
+[2025-12-21 18:59:04] [FACTORY] PieceL created
+[2025-12-21 19:00:37] [INFO] === Nouvelle session de jeu ===
+[2025-12-21 19:00:37] [STATE] INCONNU -> MENU
+[2025-12-21 19:00:37] [INFO] Jeu initialisé
+[2025-12-21 19:01:52] [FACTORY] PieceJ created
+[2025-12-21 19:01:52] [FACTORY] PieceT created
+[2025-12-21 19:01:52] [INFO] Jeu démarré
+[2025-12-21 19:01:52] [STATE] EtatMenu -> EtatEnCours
+[2025-12-21 19:01:52] [STATE] MENU -> EN_COURS
+[2025-12-21 19:01:55] [FACTORY] PieceL created
+[2025-12-21 19:01:57] [FACTORY] PieceZ created
+[2025-12-21 19:02:01] [FACTORY] PieceO created
+[2025-12-21 19:02:07] [GAME] 1 line(s) cleared
+[2025-12-21 19:02:08] [FACTORY] PieceS created
+[2025-12-21 19:02:11] [FACTORY] PieceS created
+[2025-12-21 19:02:14] [FACTORY] PieceL created
+[2025-12-21 19:02:18] [FACTORY] PieceJ created
+[2025-12-21 19:02:22] [FACTORY] PieceS created
+[2025-12-21 19:02:24] [FACTORY] PieceL created
+[2025-12-21 19:02:26] [FACTORY] PieceL created
+[2025-12-21 19:02:30] [FACTORY] PieceZ created
+[2025-12-21 19:06:38] [INFO] === Nouvelle session de jeu ===
+[2025-12-21 19:06:38] [STATE] INCONNU -> MENU
+[2025-12-21 19:06:38] [INFO] Jeu initialisé
+[2025-12-21 19:06:41] [FACTORY] PieceS created
+[2025-12-21 19:06:41] [FACTORY] PieceI created
+[2025-12-21 19:06:41] [INFO] Jeu démarré
+[2025-12-21 19:06:41] [STATE] EtatMenu -> EtatEnCours
+[2025-12-21 19:06:41] [STATE] MENU -> EN_COURS
+[2025-12-21 19:06:44] [FACTORY] PieceT created
+[2025-12-21 19:06:45] [FACTORY] PieceO created
+[2025-12-21 19:09:05] [INFO] === Nouvelle session de jeu ===
+[2025-12-21 19:09:05] [STATE] INCONNU -> MENU
+[2025-12-21 19:09:05] [INFO] Jeu initialisé
+[2025-12-21 19:09:08] [FACTORY] PieceS created
+[2025-12-21 19:09:08] [FACTORY] PieceS created
+[2025-12-21 19:09:08] [INFO] Jeu démarré
+[2025-12-21 19:09:08] [STATE] EtatMenu -> EtatEnCours
+[2025-12-21 19:09:08] [STATE] MENU -> EN_COURS
+[2025-12-21 19:12:00] [INFO] === Nouvelle session de jeu ===
+[2025-12-21 19:12:00] [STATE] INCONNU -> MENU
+[2025-12-21 19:12:00] [INFO] Jeu initialisé
+[2025-12-21 19:12:03] [FACTORY] PieceJ created
+[2025-12-21 19:12:03] [FACTORY] PieceI created
+[2025-12-21 19:12:03] [INFO] Jeu démarré
+[2025-12-21 19:12:03] [STATE] EtatMenu -> EtatEnCours
+[2025-12-21 19:12:03] [STATE] MENU -> EN_COURS
+[2025-12-21 19:12:06] [FACTORY] PieceL created
+[2025-12-21 19:15:20] [INFO] === Nouvelle session de jeu ===
+[2025-12-21 19:15:20] [STATE] INCONNU -> MENU
+[2025-12-21 19:15:20] [INFO] Jeu initialisé
+[2025-12-21 19:16:08] [INFO] === Nouvelle session de jeu ===
+[2025-12-21 19:16:08] [STATE] INCONNU -> MENU
+[2025-12-21 19:16:08] [INFO] Jeu initialisé
+[2025-12-21 19:22:19] [INFO] === Nouvelle session de jeu ===
+[2025-12-21 19:22:19] [STATE] INCONNU -> MENU
+[2025-12-21 19:22:19] [INFO] Jeu initialisé
+[2025-12-21 19:22:34] [INFO] === Nouvelle session de jeu ===
+[2025-12-21 19:22:34] [STATE] INCONNU -> MENU
+[2025-12-21 19:22:34] [INFO] Jeu initialisé
+[2025-12-21 19:22:37] [FACTORY] PieceI created
+[2025-12-21 19:22:37] [FACTORY] PieceO created
+[2025-12-21 19:22:37] [INFO] Jeu démarré
+[2025-12-21 19:22:37] [STATE] EtatMenu -> EtatEnCours
+[2025-12-21 19:22:37] [STATE] MENU -> EN_COURS
+[2025-12-21 19:22:40] [FACTORY] PieceT created
+[2025-12-21 19:22:42] [FACTORY] PieceJ created
+[2025-12-21 19:22:44] [FACTORY] PieceS created
+[2025-12-21 19:22:47] [GAME] 1 line(s) cleared
+[2025-12-21 19:22:47] [FACTORY] PieceT created
+[2025-12-21 19:22:52] [FACTORY] PieceO created
+[2025-12-21 19:22:56] [GAME] 1 line(s) cleared
+[2025-12-21 19:22:56] [FACTORY] PieceL created
+[2025-12-21 19:23:00] [FACTORY] PieceO created
+[2025-12-21 19:23:02] [FACTORY] PieceT created
+[2025-12-21 19:23:05] [FACTORY] PieceS created
+[2025-12-21 19:23:08] [FACTORY] PieceI created
+[2025-12-21 19:23:11] [FACTORY] PieceL created
+[2025-12-21 19:23:14] [GAME] 2 line(s) cleared
+[2025-12-21 19:23:14] [FACTORY] PieceO created
+[2025-12-21 19:23:19] [FACTORY] PieceI created
+[2025-12-21 19:23:22] [FACTORY] PieceL created
+[2025-12-21 19:23:25] [FACTORY] PieceS created
+[2025-12-21 19:23:28] [FACTORY] PieceS created
+[2025-12-21 19:23:30] [GAME] 2 line(s) cleared
+[2025-12-21 19:23:30] [FACTORY] PieceI created
+[2025-12-21 19:23:35] [FACTORY] PieceI created
+[2025-12-21 19:23:38] [FACTORY] PieceL created
+[2025-12-21 19:23:46] [GAME] 1 line(s) cleared
+[2025-12-21 19:23:46] [FACTORY] PieceL created
+[2025-12-21 19:23:49] [FACTORY] PieceO created
+[2025-12-21 19:23:52] [GAME] 1 line(s) cleared
+[2025-12-21 19:23:52] [FACTORY] PieceT created
+[2025-12-21 19:23:55] [FACTORY] PieceI created
+[2025-12-21 19:23:59] [FACTORY] PieceL created
+[2025-12-21 19:24:05] [FACTORY] PieceT created
+[2025-12-21 19:24:07] [FACTORY] PieceJ created
+[2025-12-21 19:24:12] [FACTORY] PieceZ created
+[2025-12-21 19:24:20] [FACTORY] PieceJ created
+[2025-12-21 19:24:23] [FACTORY] PieceO created
+[2025-12-21 19:24:26] [FACTORY] PieceL created
+[2025-12-21 19:24:28] [FACTORY] PieceS created
+[2025-12-21 19:24:30] [FACTORY] PieceT created
+[2025-12-21 19:24:33] [FACTORY] PieceL created
+[2025-12-21 19:24:35] [FACTORY] PieceL created
+[2025-12-21 19:24:38] [FACTORY] PieceS created
+[2025-12-21 19:24:40] [FACTORY] PieceL created
+[2025-12-21 19:24:44] [FACTORY] PieceI created
+[2025-12-21 19:24:47] [GAME] 1 line(s) cleared
+[2025-12-21 19:24:47] [FACTORY] PieceZ created
+[2025-12-21 19:24:48] [FACTORY] PieceJ created
+[2025-12-21 19:24:51] [INFO] Niveau 2 atteint !
+[2025-12-21 19:24:51] [GAME] 1 line(s) cleared
+[2025-12-21 19:24:51] [FACTORY] PieceI created
+[2025-12-21 19:25:03] [FACTORY] PieceJ created
+[2025-12-21 19:25:06] [GAME] 1 line(s) cleared
+[2025-12-21 19:25:06] [FACTORY] PieceL created
+[2025-12-21 19:25:09] [FACTORY] PieceI created
+[2025-12-21 19:25:15] [FACTORY] PieceS created
+[2025-12-21 19:25:22] [GAME] 4 line(s) cleared
+[2025-12-21 19:25:22] [FACTORY] PieceT created
+[2025-12-21 19:25:27] [FACTORY] PieceS created
+[2025-12-21 19:25:30] [FACTORY] PieceJ created
+[2025-12-21 19:25:33] [FACTORY] PieceJ created
+[2025-12-21 19:25:36] [FACTORY] PieceI created
+[2025-12-21 19:25:45] [FACTORY] PieceJ created
+[2025-12-21 19:25:48] [GAME] 1 line(s) cleared
+[2025-12-21 19:25:48] [FACTORY] PieceZ created
+[2025-12-21 19:25:51] [FACTORY] PieceJ created
+[2025-12-21 19:25:54] [FACTORY] PieceZ created
+[2025-12-21 19:25:58] [FACTORY] PieceZ created
+[2025-12-21 19:26:01] [FACTORY] PieceI created
+[2025-12-21 19:26:04] [GAME] 1 line(s) cleared
+[2025-12-21 19:26:04] [FACTORY] PieceL created
+[2025-12-21 19:26:07] [INFO] Niveau 3 atteint !
+[2025-12-21 19:26:07] [GAME] 3 line(s) cleared
+[2025-12-21 19:26:07] [FACTORY] PieceZ created
+[2025-12-21 19:26:15] [FACTORY] PieceS created
+[2025-12-21 19:26:18] [GAME] 1 line(s) cleared
+[2025-12-21 19:26:18] [FACTORY] PieceS created
+[2025-12-21 19:26:21] [GAME] 1 line(s) cleared
+[2025-12-21 19:26:21] [FACTORY] PieceT created
+[2025-12-21 19:26:26] [GAME] 1 line(s) cleared
+[2025-12-21 19:26:26] [FACTORY] PieceI created
+[2025-12-21 19:26:30] [GAME] 1 line(s) cleared
+[2025-12-21 19:26:30] [FACTORY] PieceJ created
+[2025-12-21 19:26:33] [FACTORY] PieceI created
+[2025-12-21 19:26:36] [FACTORY] PieceZ created
+[2025-12-21 19:26:38] [FACTORY] PieceJ created
+[2025-12-21 19:26:40] [FACTORY] PieceO created
+[2025-12-21 19:26:44] [FACTORY] PieceO created
+[2025-12-21 19:26:48] [FACTORY] PieceI created
+[2025-12-21 19:26:51] [FACTORY] PieceJ created
+[2025-12-21 19:26:55] [GAME] 2 line(s) cleared
+[2025-12-21 19:26:55] [FACTORY] PieceZ created
+[2025-12-21 19:26:58] [FACTORY] PieceI created
+[2025-12-21 19:27:01] [FACTORY] PieceJ created
+[2025-12-21 19:27:04] [FACTORY] PieceZ created
+[2025-12-21 19:27:07] [GAME] 1 line(s) cleared
+[2025-12-21 19:27:07] [FACTORY] PieceI created
+[2025-12-21 19:27:10] [FACTORY] PieceL created
+[2025-12-21 19:27:13] [FACTORY] PieceS created
+[2025-12-21 19:27:16] [GAME] 1 line(s) cleared
+[2025-12-21 19:27:16] [FACTORY] PieceO created
+[2025-12-21 19:27:25] [FACTORY] PieceJ created
+[2025-12-21 19:27:28] [FACTORY] PieceS created
+[2025-12-21 19:27:31] [FACTORY] PieceL created
+[2025-12-21 19:27:34] [FACTORY] PieceS created
+[2025-12-21 19:27:40] [FACTORY] PieceO created
+[2025-12-21 19:27:42] [FACTORY] PieceO created
+[2025-12-21 19:27:44] [FACTORY] PieceT created
+[2025-12-21 19:27:48] [FACTORY] PieceS created
+[2025-12-21 19:27:50] [FACTORY] PieceT created
+[2025-12-21 19:27:53] [FACTORY] PieceZ created
+[2025-12-21 19:27:55] [FACTORY] PieceI created
+[2025-12-21 19:27:58] [GAME] 1 line(s) cleared
+[2025-12-21 19:27:58] [FACTORY] PieceZ created
+[2025-12-21 19:28:02] [FACTORY] PieceJ created
+[2025-12-21 19:28:05] [FACTORY] PieceS created
+[2025-12-21 19:28:10] [FACTORY] PieceS created
+[2025-12-21 19:28:15] [FACTORY] PieceI created
+[2025-12-21 19:28:25] [FACTORY] PieceZ created
+[2025-12-21 19:28:27] [FACTORY] PieceZ created
+[2025-12-21 19:28:30] [INFO] Niveau 4 atteint !
+[2025-12-21 19:28:30] [GAME] 2 line(s) cleared
+[2025-12-21 19:28:30] [FACTORY] PieceS created
+[2025-12-21 19:28:33] [FACTORY] PieceZ created
+[2025-12-21 19:28:36] [FACTORY] PieceJ created
+[2025-12-21 19:28:39] [FACTORY] PieceI created
+[2025-12-21 19:28:48] [GAME] 2 line(s) cleared
+[2025-12-21 19:28:48] [FACTORY] PieceO created
+[2025-12-21 19:28:53] [GAME] 1 line(s) cleared
+[2025-12-21 19:28:53] [FACTORY] PieceO created
+[2025-12-21 19:28:57] [GAME] 1 line(s) cleared
+[2025-12-21 19:28:57] [FACTORY] PieceO created
+[2025-12-21 19:29:01] [FACTORY] PieceL created
+[2025-12-21 19:29:14] [FACTORY] PieceO created
+[2025-12-21 19:29:16] [FACTORY] PieceI created
+[2025-12-21 19:29:17] [FACTORY] PieceT created
+[2025-12-21 19:29:18] [FACTORY] PieceT created
+[2025-12-21 19:29:19] [FACTORY] PieceO created
+[2025-12-21 19:29:20] [STATE] EtatEnCours -> EtatGameOver
+[2025-12-21 19:29:20] [STATE] EN_COURS -> GAME_OVER
+[2025-12-21 19:29:20] [SCORE] Final score: 12400
+[2025-12-21 19:29:24] [INFO] Nouveau jeu démarré
+[2025-12-21 19:29:24] [STATE] EtatGameOver -> EtatMenu
+[2025-12-21 19:29:24] [STATE] INCONNU -> MENU
+[2025-12-21 19:29:24] [FACTORY] PieceL created
+[2025-12-22 10:32:05] [INFO] === Nouvelle session de jeu ===
+[2025-12-22 10:32:05] [STATE] INCONNU -> MENU
+[2025-12-22 10:32:05] [INFO] Jeu initialisé
+[2025-12-22 10:32:16] [FACTORY] PieceS created
+[2025-12-22 10:32:16] [FACTORY] PieceS created
+[2025-12-22 10:32:16] [INFO] Jeu démarré
+[2025-12-22 10:32:16] [STATE] EtatMenu -> EtatEnCours
+[2025-12-22 10:32:16] [STATE] MENU -> EN_COURS
+[2025-12-22 10:32:19] [FACTORY] PieceJ created
+[2025-12-22 10:32:22] [FACTORY] PieceS created
+[2025-12-22 10:32:25] [FACTORY] PieceT created
+[2025-12-22 10:32:28] [FACTORY] PieceZ created
+[2025-12-22 10:36:27] [INFO] === Nouvelle session de jeu ===
+[2025-12-22 10:36:27] [STATE] INCONNU -> MENU
+[2025-12-22 10:36:27] [INFO] Jeu initialisé
+[2025-12-22 10:36:37] [FACTORY] PieceS created
+[2025-12-22 10:36:37] [FACTORY] PieceL created
+[2025-12-22 10:36:37] [INFO] Jeu démarré
+[2025-12-22 10:36:37] [STATE] EtatMenu -> EtatEnCours
+[2025-12-22 10:36:37] [STATE] MENU -> EN_COURS
+[2025-12-22 10:36:40] [FACTORY] PieceT created
+[2025-12-22 10:36:45] [FACTORY] PieceZ created
+[2025-12-22 10:36:53] [STATE] EtatEnCours -> EtatPause
+[2025-12-22 10:36:53] [STATE] EtatPause -> EtatEnCours
+[2025-12-22 10:36:53] [STATE] MENU -> EN_COURS
+[2025-12-22 10:36:54] [STATE] EtatEnCours -> EtatPause
+[2025-12-22 10:36:54] [STATE] EtatPause -> EtatEnCours
+[2025-12-22 10:36:54] [STATE] MENU -> EN_COURS
+[2025-12-22 10:36:54] [STATE] EtatEnCours -> EtatPause
+[2025-12-22 10:36:54] [STATE] EtatPause -> EtatEnCours
+[2025-12-22 10:36:54] [STATE] MENU -> EN_COURS
+[2025-12-22 10:36:55] [STATE] EtatEnCours -> EtatPause
+[2025-12-22 10:36:55] [STATE] EtatPause -> EtatEnCours
+[2025-12-22 10:36:55] [STATE] MENU -> EN_COURS
+[2025-12-22 10:37:00] [STATE] EtatEnCours -> EtatPause
+[2025-12-22 10:37:00] [STATE] EtatPause -> EtatEnCours
+[2025-12-22 10:37:00] [STATE] MENU -> EN_COURS
+[2025-12-22 10:37:05] [FACTORY] PieceI created
+[2025-12-22 10:37:07] [FACTORY] PieceL created
+[2025-12-22 10:40:44] [INFO] === Nouvelle session de jeu ===
+[2025-12-22 10:40:44] [STATE] INCONNU -> MENU
+[2025-12-22 10:40:44] [INFO] Jeu initialisé
+[2025-12-22 10:40:48] [FACTORY] PieceI created
+[2025-12-22 10:40:48] [FACTORY] PieceI created
+[2025-12-22 10:40:48] [INFO] Jeu démarré
+[2025-12-22 10:40:48] [STATE] EtatMenu -> EtatEnCours
+[2025-12-22 10:40:48] [STATE] MENU -> EN_COURS
+[2025-12-22 10:40:51] [FACTORY] PieceL created
+[2025-12-22 10:40:53] [FACTORY] PieceI created
+[2025-12-22 10:40:56] [FACTORY] PieceI created
+[2025-12-22 10:40:58] [FACTORY] PieceI created
+[2025-12-22 10:41:02] [FACTORY] PieceI created
+[2025-12-22 10:41:05] [FACTORY] PieceZ created
+[2025-12-22 10:41:09] [FACTORY] PieceT created
+[2025-12-22 10:41:12] [GAME] 2 line(s) cleared
+[2025-12-22 10:41:12] [FACTORY] PieceL created
+[2025-12-22 10:41:15] [STATE] EtatEnCours -> EtatPause
+[2025-12-22 10:41:33] [INFO] === Nouvelle session de jeu ===
+[2025-12-22 10:41:33] [STATE] INCONNU -> MENU
+[2025-12-22 10:41:33] [INFO] Jeu initialisé
+[2025-12-22 10:41:34] [FACTORY] PieceJ created
+[2025-12-22 10:41:34] [FACTORY] PieceI created
+[2025-12-22 10:41:34] [INFO] Jeu démarré
+[2025-12-22 10:41:34] [STATE] EtatMenu -> EtatEnCours
+[2025-12-22 10:41:34] [STATE] MENU -> EN_COURS
+[2025-12-22 10:41:40] [FACTORY] PieceL created
+[2025-12-22 10:41:42] [FACTORY] PieceJ created
+[2025-12-22 10:41:43] [STATE] EtatEnCours -> EtatPause
+[2025-12-22 10:59:18] [INFO] === Nouvelle session de jeu ===
+[2025-12-22 10:59:18] [STATE] INCONNU -> MENU
+[2025-12-22 10:59:18] [INFO] Jeu initialisé
+[2025-12-22 10:59:26] [FACTORY] PieceO created
+[2025-12-22 10:59:26] [FACTORY] PieceI created
+[2025-12-22 10:59:26] [INFO] Jeu démarré
+[2025-12-22 10:59:26] [STATE] EtatMenu -> EtatEnCours
+[2025-12-22 10:59:26] [STATE] MENU -> EN_COURS
+[2025-12-22 10:59:28] [FACTORY] PieceL created
+[2025-12-22 10:59:29] [FACTORY] PieceL created
+[2025-12-22 10:59:31] [FACTORY] PieceI created
+[2025-12-22 10:59:32] [FACTORY] PieceL created
+[2025-12-22 10:59:34] [GAME] 1 line(s) cleared
+[2025-12-22 10:59:34] [FACTORY] PieceI created
+[2025-12-22 10:59:39] [FACTORY] PieceJ created
+[2025-12-22 10:59:49] [INFO] === Nouvelle session de jeu ===
+[2025-12-22 10:59:49] [STATE] INCONNU -> MENU
+[2025-12-22 10:59:49] [INFO] Jeu initialisé
+[2025-12-22 11:00:44] [INFO] === Nouvelle session de jeu ===
+[2025-12-22 11:00:44] [STATE] INCONNU -> MENU
+[2025-12-22 11:00:44] [INFO] Jeu initialisé
+[2025-12-22 11:08:05] [INFO] === Nouvelle session de jeu ===
+[2025-12-22 11:08:05] [STATE] INCONNU -> MENU
+[2025-12-22 11:08:05] [INFO] Jeu initialisé
+[2025-12-22 11:09:02] [INFO] === Nouvelle session de jeu ===
+[2025-12-22 11:09:02] [STATE] INCONNU -> MENU
+[2025-12-22 11:09:02] [INFO] Jeu initialisé
+[2025-12-22 11:10:11] [INFO] === Nouvelle session de jeu ===
+[2025-12-22 11:10:11] [STATE] INCONNU -> MENU
+[2025-12-22 11:10:11] [INFO] Jeu initialisé
+[2025-12-22 11:11:13] [INFO] === Nouvelle session de jeu ===
+[2025-12-22 11:11:13] [STATE] INCONNU -> MENU
+[2025-12-22 11:11:13] [INFO] Jeu initialisé
+[2025-12-22 11:12:27] [FACTORY] PieceZ created
+[2025-12-22 11:12:27] [FACTORY] PieceO created
+[2025-12-22 11:12:27] [INFO] Jeu démarré
+[2025-12-22 11:12:27] [STATE] EtatMenu -> EtatEnCours
+[2025-12-22 11:12:27] [STATE] MENU -> EN_COURS
+[2025-12-22 11:12:28] [STATE] EtatEnCours -> EtatPause
+[2025-12-22 11:19:42] [INFO] === Nouvelle session de jeu ===
+[2025-12-22 11:19:42] [STATE] INCONNU -> MENU
+[2025-12-22 11:19:42] [INFO] Jeu initialisé
+[2025-12-22 11:19:45] [FACTORY] PieceT created
+[2025-12-22 11:19:45] [FACTORY] PieceO created
+[2025-12-22 11:19:45] [INFO] Jeu démarré
+[2025-12-22 11:19:45] [STATE] EtatMenu -> EtatEnCours
+[2025-12-22 11:19:45] [STATE] MENU -> EN_COURS
+[2025-12-22 11:19:49] [FACTORY] PieceO created
+[2025-12-22 11:19:51] [FACTORY] PieceZ created
+[2025-12-22 11:19:52] [STATE] EtatEnCours -> EtatPause
+[2025-12-22 11:24:36] [INFO] === Nouvelle session de jeu ===
+[2025-12-22 11:24:36] [STATE] INCONNU -> MENU
+[2025-12-22 11:24:37] [INFO] Jeu initialisé
+[2025-12-22 11:24:44] [FACTORY] PieceJ created
+[2025-12-22 11:24:44] [FACTORY] PieceI created
+[2025-12-22 11:24:44] [INFO] Jeu démarré
+[2025-12-22 11:24:44] [STATE] EtatMenu -> EtatEnCours
+[2025-12-22 11:24:44] [STATE] MENU -> EN_COURS
+[2025-12-22 11:24:54] [FACTORY] PieceI created
+[2025-12-22 11:24:58] [FACTORY] PieceT created
+[2025-12-22 11:25:01] [FACTORY] PieceJ created
+[2025-12-22 11:25:03] [FACTORY] PieceT created
+[2025-12-22 11:25:06] [STATE] EtatEnCours -> EtatPause
+[2025-12-22 11:25:06] [STATE] EN_COURS -> PAUSE
+[2025-12-22 11:25:07] [STATE] PAUSE -> EN_COURS
+[2025-12-22 11:25:07] [STATE] EtatPause -> EtatEnCours
+[2025-12-22 11:25:07] [STATE] MENU -> EN_COURS
+[2025-12-22 11:25:10] [FACTORY] PieceS created
+[2025-12-22 11:25:14] [FACTORY] PieceT created
+[2025-12-22 11:25:18] [FACTORY] PieceS created
+[2025-12-22 11:25:21] [FACTORY] PieceZ created
+[2025-12-22 11:25:26] [FACTORY] PieceS created
+[2025-12-22 11:29:02] [INFO] === Nouvelle session de jeu ===
+[2025-12-22 11:29:02] [STATE] INCONNU -> MENU
+[2025-12-22 11:29:02] [INFO] Jeu initialisé
+[2025-12-22 11:29:06] [FACTORY] PieceL created
+[2025-12-22 11:29:06] [FACTORY] PieceI created
+[2025-12-22 11:29:06] [INFO] Jeu démarré
+[2025-12-22 11:29:06] [STATE] EtatMenu -> EtatEnCours
+[2025-12-22 11:29:06] [STATE] MENU -> EN_COURS
+[2025-12-22 11:29:09] [FACTORY] PieceJ created
+[2025-12-22 11:29:12] [FACTORY] PieceO created
+[2025-12-22 11:29:16] [FACTORY] PieceL created
+[2025-12-22 11:29:19] [FACTORY] PieceS created
+[2025-12-22 11:29:22] [STATE] EtatEnCours -> EtatPause
+[2025-12-22 11:29:22] [STATE] EN_COURS -> PAUSE
+[2025-12-22 11:29:31] [STATE] PAUSE -> EN_COURS
+[2025-12-22 11:29:31] [STATE] EtatPause -> EtatEnCours
+[2025-12-22 11:29:31] [STATE] MENU -> EN_COURS
+[2025-12-22 11:29:33] [STATE] EtatEnCours -> EtatPause
+[2025-12-22 11:29:33] [STATE] EN_COURS -> PAUSE
+[2025-12-22 11:29:34] [STATE] PAUSE -> EN_COURS
+[2025-12-22 11:29:34] [STATE] EtatPause -> EtatEnCours
+[2025-12-22 11:29:34] [STATE] MENU -> EN_COURS
+[2025-12-22 11:29:34] [STATE] EtatEnCours -> EtatPause
+[2025-12-22 11:29:34] [STATE] EN_COURS -> PAUSE
+[2025-12-22 11:30:46] [INFO] === Nouvelle session de jeu ===
+[2025-12-22 11:30:46] [STATE] INCONNU -> MENU
+[2025-12-22 11:30:46] [INFO] Jeu initialisé
+[2025-12-22 11:30:48] [FACTORY] PieceI created
+[2025-12-22 11:30:48] [FACTORY] PieceZ created
+[2025-12-22 11:30:48] [INFO] Jeu démarré
+[2025-12-22 11:30:48] [STATE] EtatMenu -> EtatEnCours
+[2025-12-22 11:30:48] [STATE] MENU -> EN_COURS
+[2025-12-22 11:30:50] [STATE] EtatEnCours -> EtatPause
+[2025-12-22 11:30:50] [STATE] EN_COURS -> PAUSE
+[2025-12-22 11:31:18] [INFO] === Nouvelle session de jeu ===
+[2025-12-22 11:31:18] [STATE] INCONNU -> MENU
+[2025-12-22 11:31:18] [INFO] Jeu initialisé
+[2025-12-22 11:31:20] [FACTORY] PieceJ created
+[2025-12-22 11:31:20] [FACTORY] PieceZ created
+[2025-12-22 11:31:20] [INFO] Jeu démarré
+[2025-12-22 11:31:20] [STATE] EtatMenu -> EtatEnCours
+[2025-12-22 11:31:20] [STATE] MENU -> EN_COURS
+[2025-12-22 11:31:21] [STATE] EtatEnCours -> EtatPause
+[2025-12-22 11:31:21] [STATE] EN_COURS -> PAUSE
+[2025-12-22 11:32:02] [INFO] === Nouvelle session de jeu ===
+[2025-12-22 11:32:02] [STATE] INCONNU -> MENU
+[2025-12-22 11:32:02] [INFO] Jeu initialisé
+[2025-12-22 11:32:04] [FACTORY] PieceT created
+[2025-12-22 11:32:04] [FACTORY] PieceT created
+[2025-12-22 11:32:04] [INFO] Jeu démarré
+[2025-12-22 11:32:04] [STATE] EtatMenu -> EtatEnCours
+[2025-12-22 11:32:04] [STATE] MENU -> EN_COURS
+[2025-12-22 11:32:05] [STATE] EtatEnCours -> EtatPause
+[2025-12-22 11:32:05] [STATE] EN_COURS -> PAUSE
+[2025-12-22 12:05:37] [INFO] === Nouvelle session de jeu ===
+[2025-12-22 12:05:37] [STATE] INCONNU -> MENU
+[2025-12-22 12:05:37] [INFO] Jeu initialisé
+[2025-12-22 12:05:39] [FACTORY] PieceZ created
+[2025-12-22 12:05:39] [FACTORY] PieceS created
+[2025-12-22 12:05:39] [INFO] Jeu démarré
+[2025-12-22 12:05:39] [STATE] EtatMenu -> EtatEnCours
+[2025-12-22 12:05:39] [STATE] MENU -> EN_COURS
+[2025-12-22 12:05:46] [FACTORY] PieceJ created
+[2025-12-22 12:05:50] [FACTORY] PieceT created
+[2025-12-22 12:05:55] [FACTORY] PieceS created
+[2025-12-22 12:10:59] [INFO] === Nouvelle session de jeu ===
+[2025-12-22 12:10:59] [STATE] INCONNU -> MENU
+[2025-12-22 12:10:59] [INFO] Jeu initialisé
+[2025-12-22 12:11:01] [FACTORY] PieceL created
+[2025-12-22 12:11:01] [FACTORY] PieceS created
+[2025-12-22 12:11:01] [INFO] Jeu démarré
+[2025-12-22 12:11:01] [STATE] EtatMenu -> EtatEnCours
+[2025-12-22 12:11:01] [STATE] MENU -> EN_COURS
+[2025-12-22 12:11:05] [FACTORY] PieceJ created
+[2025-12-22 12:11:08] [FACTORY] PieceI created
+[2025-12-22 12:11:12] [FACTORY] PieceI created
+[2025-12-22 12:13:26] [INFO] === Nouvelle session de jeu ===
+[2025-12-22 12:13:26] [STATE] INCONNU -> MENU
+[2025-12-22 12:13:26] [INFO] Jeu initialisé
+[2025-12-22 12:13:28] [FACTORY] PieceZ created
+[2025-12-22 12:13:28] [FACTORY] PieceJ created
+[2025-12-22 12:13:28] [INFO] Jeu démarré
+[2025-12-22 12:13:28] [STATE] EtatMenu -> EtatEnCours
+[2025-12-22 12:13:28] [STATE] MENU -> EN_COURS
+[2025-12-22 12:13:33] [FACTORY] PieceJ created
+[2025-12-22 12:13:36] [FACTORY] PieceJ created
+[2025-12-22 12:13:41] [FACTORY] PieceI created
+[2025-12-22 12:13:43] [FACTORY] PieceS created
+[2025-12-22 12:13:48] [FACTORY] PieceJ created
+[2025-12-22 12:13:50] [GAME] 1 line(s) cleared
+[2025-12-22 12:13:50] [FACTORY] PieceZ created
+[2025-12-22 12:13:53] [STATE] EtatEnCours -> EtatPause
+[2025-12-22 12:13:53] [STATE] EN_COURS -> PAUSE
+[2025-12-22 12:13:55] [STATE] PAUSE -> EN_COURS
+[2025-12-22 12:13:55] [STATE] EtatPause -> EtatEnCours
+[2025-12-22 12:13:55] [STATE] MENU -> EN_COURS
+[2025-12-22 12:38:03] [INFO] === Nouvelle session de jeu ===
+[2025-12-22 12:38:03] [STATE] INCONNU -> MENU
+[2025-12-22 12:38:03] [INFO] Jeu initialisé
+[2025-12-22 12:38:06] [FACTORY] PieceL created
+[2025-12-22 12:38:06] [FACTORY] PieceL created
+[2025-12-22 12:38:06] [INFO] Jeu démarré
+[2025-12-22 12:38:06] [STATE] EtatMenu -> EtatEnCours
+[2025-12-22 12:38:06] [STATE] MENU -> EN_COURS
+[2025-12-22 13:02:08] [INFO] === Nouvelle session de jeu ===
+[2025-12-22 13:02:08] [STATE] INCONNU -> MENU
+[2025-12-22 13:02:08] [INFO] Jeu initialisé
+[2025-12-22 13:02:11] [FACTORY] PieceZ created
+[2025-12-22 13:02:11] [FACTORY] PieceZ created
+[2025-12-22 13:02:11] [INFO] Jeu démarré
+[2025-12-22 13:02:11] [STATE] EtatMenu -> EtatEnCours
+[2025-12-22 13:02:11] [STATE] MENU -> EN_COURS
+[2025-12-22 13:02:16] [INFO] Nouveau jeu démarré
+[2025-12-22 13:02:16] [STATE] EtatEnCours -> EtatMenu
+[2025-12-22 13:02:16] [STATE] INCONNU -> MENU
+[2025-12-22 13:02:17] [FACTORY] PieceI created
+[2025-12-22 13:02:17] [INFO] Jeu démarré
+[2025-12-22 13:02:17] [STATE] EtatMenu -> EtatEnCours
+[2025-12-22 13:02:17] [STATE] MENU -> EN_COURS
+[2025-12-22 13:02:21] [FACTORY] PieceS created
+[2025-12-22 13:02:24] [FACTORY] PieceS created
+[2025-12-22 13:02:25] [INFO] Nouveau jeu démarré
+[2025-12-22 13:02:25] [STATE] EtatEnCours -> EtatMenu
+[2025-12-22 13:02:25] [STATE] INCONNU -> MENU
+[2025-12-24 10:35:17] [INFO] === Nouvelle session de jeu ===
+[2025-12-24 10:35:17] [STATE] INCONNU -> MENU
+[2025-12-24 10:35:17] [INFO] Jeu initialisé
+[2025-12-24 10:39:11] [FACTORY] PieceS created
+[2025-12-24 10:39:11] [FACTORY] PieceO created
+[2025-12-24 10:39:11] [INFO] Jeu démarré
+[2025-12-24 10:39:11] [STATE] EtatMenu -> EtatEnCours
+[2025-12-24 10:39:11] [STATE] MENU -> EN_COURS
+[2025-12-24 10:39:23] [INFO] Nouveau jeu démarré
+[2025-12-24 10:39:23] [STATE] EtatEnCours -> EtatMenu
+[2025-12-24 10:39:23] [STATE] INCONNU -> MENU
+[2025-12-24 10:39:55] [FACTORY] PieceJ created
+[2025-12-24 10:39:55] [INFO] Jeu démarré
+[2025-12-24 10:39:55] [STATE] EtatMenu -> EtatEnCours
+[2025-12-24 10:39:55] [STATE] MENU -> EN_COURS
+[2025-12-24 10:40:11] [FACTORY] PieceS created
+[2025-12-24 10:40:28] [FACTORY] PieceZ created
+[2025-12-24 10:40:38] [FACTORY] PieceZ created
+[2025-12-24 10:40:53] [FACTORY] PieceL created
+[2025-12-24 10:41:09] [FACTORY] PieceS created
+[2025-12-24 10:41:22] [GAME] 1 line(s) cleared
+[2025-12-24 10:41:22] [FACTORY] PieceL created
+[2025-12-24 10:41:37] [FACTORY] PieceO created
+[2025-12-24 10:41:51] [FACTORY] PieceO created
+[2025-12-24 10:41:55] [FACTORY] PieceJ created
+[2025-12-24 10:41:59] [FACTORY] PieceS created
+[2025-12-24 10:42:06] [FACTORY] PieceS created
+[2025-12-24 10:42:14] [FACTORY] PieceZ created
+[2025-12-24 10:42:18] [GAME] 1 line(s) cleared
+[2025-12-24 10:42:18] [FACTORY] PieceT created
+[2025-12-24 10:42:30] [FACTORY] PieceT created
+[2025-12-24 10:42:34] [FACTORY] PieceS created
+[2025-12-24 10:42:37] [FACTORY] PieceJ created
+[2025-12-24 10:42:40] [GAME] 1 line(s) cleared
+[2025-12-24 10:42:40] [FACTORY] PieceL created
+[2025-12-24 10:42:43] [FACTORY] PieceZ created
+[2025-12-24 10:42:48] [FACTORY] PieceJ created
+[2025-12-24 10:42:51] [FACTORY] PieceI created
+[2025-12-24 10:43:00] [FACTORY] PieceT created
+[2025-12-24 10:43:08] [FACTORY] PieceT created
+[2025-12-24 10:43:14] [FACTORY] PieceT created
+[2025-12-24 10:43:18] [FACTORY] PieceS created
+[2025-12-24 10:43:20] [FACTORY] PieceO created
+[2025-12-24 10:43:21] [STATE] EtatEnCours -> EtatGameOver
+[2025-12-24 10:43:21] [STATE] EN_COURS -> GAME_OVER
+[2025-12-24 10:43:21] [SCORE] Final score: 560
+[2025-12-24 10:44:50] [INFO] Nouveau jeu démarré
+[2025-12-24 10:44:50] [STATE] EtatGameOver -> EtatMenu
+[2025-12-24 10:44:50] [STATE] INCONNU -> MENU
+[2025-12-24 10:44:50] [FACTORY] PieceT created
+[2025-12-24 10:44:51] [FACTORY] PieceO created
+[2025-12-24 10:44:51] [INFO] Jeu démarré
+[2025-12-24 10:44:51] [STATE] EtatMenu -> EtatEnCours
+[2025-12-24 10:44:51] [STATE] MENU -> EN_COURS
+[2025-12-24 10:44:54] [FACTORY] PieceT created
+[2025-12-24 10:44:57] [FACTORY] PieceO created
+[2025-12-24 10:44:59] [FACTORY] PieceJ created
+[2025-12-24 10:45:02] [GAME] 1 line(s) cleared
+[2025-12-24 10:45:02] [FACTORY] PieceZ created
+[2025-12-24 10:45:08] [FACTORY] PieceL created
+[2025-12-24 10:45:11] [FACTORY] PieceI created
+[2025-12-24 10:45:21] [FACTORY] PieceL created
+[2025-12-24 10:45:24] [FACTORY] PieceI created
+[2025-12-24 10:45:28] [FACTORY] PieceI created
+[2025-12-24 10:45:31] [FACTORY] PieceI created
+[2025-12-24 10:45:35] [FACTORY] PieceZ created
+[2025-12-24 10:45:39] [GAME] 1 line(s) cleared
+[2025-12-24 10:45:39] [FACTORY] PieceL created
+[2025-12-24 10:45:43] [FACTORY] PieceL created
+[2025-12-24 10:45:46] [FACTORY] PieceT created
+[2025-12-24 10:45:50] [FACTORY] PieceO created
+[2025-12-24 10:45:53] [GAME] 1 line(s) cleared
+[2025-12-24 10:45:53] [FACTORY] PieceZ created
+[2025-12-24 10:45:56] [GAME] 1 line(s) cleared
+[2025-12-24 10:45:56] [FACTORY] PieceO created
+[2025-12-24 10:52:06] [INFO] === Nouvelle session de jeu ===
+[2025-12-24 10:52:06] [STATE] INCONNU -> MENU
+[2025-12-24 10:52:06] [INFO] Jeu initialisé
+[2025-12-24 10:52:14] [FACTORY] PieceZ created
+[2025-12-24 10:52:14] [FACTORY] PieceO created
+[2025-12-24 10:52:14] [INFO] Jeu démarré
+[2025-12-24 10:52:14] [STATE] EtatMenu -> EtatEnCours
+[2025-12-24 10:52:14] [STATE] MENU -> EN_COURS
+[2025-12-24 10:52:18] [FACTORY] PieceJ created
+[2025-12-24 10:52:20] [FACTORY] PieceZ created
+[2025-12-24 10:52:22] [FACTORY] PieceJ created
+[2025-12-24 10:52:24] [FACTORY] PieceJ created
+[2025-12-24 10:52:27] [FACTORY] PieceS created
+[2025-12-24 10:52:31] [FACTORY] PieceS created
+[2025-12-24 10:52:34] [GAME] 1 line(s) cleared
+[2025-12-24 10:52:34] [FACTORY] PieceL created
+[2025-12-24 10:52:39] [FACTORY] PieceJ created
+[2025-12-24 10:52:42] [GAME] 1 line(s) cleared
+[2025-12-24 10:52:42] [FACTORY] PieceS created
+[2025-12-24 10:52:45] [FACTORY] PieceZ created
+[2025-12-24 10:52:48] [GAME] 1 line(s) cleared
+[2025-12-24 10:52:48] [FACTORY] PieceJ created
+[2025-12-24 10:52:50] [FACTORY] PieceT created
+[2025-12-24 10:52:53] [FACTORY] PieceO created
+[2025-12-24 10:52:55] [FACTORY] PieceL created
+[2025-12-24 10:52:58] [FACTORY] PieceZ created
+[2025-12-24 10:53:01] [FACTORY] PieceL created
+[2025-12-24 10:53:04] [FACTORY] PieceL created
+[2025-12-24 10:53:07] [FACTORY] PieceT created
+[2025-12-24 10:53:10] [FACTORY] PieceI created
+[2025-12-24 10:53:13] [FACTORY] PieceT created
+[2025-12-24 10:53:16] [GAME] 1 line(s) cleared
+[2025-12-24 10:53:16] [FACTORY] PieceI created
+[2025-12-24 10:53:25] [FACTORY] PieceT created
+[2025-12-24 10:53:30] [GAME] 4 line(s) cleared
+[2025-12-24 10:53:30] [FACTORY] PieceS created
+[2025-12-24 10:57:14] [INFO] === Nouvelle session de jeu ===
+[2025-12-24 10:57:14] [STATE] INCONNU -> MENU
+[2025-12-24 10:57:14] [INFO] Jeu initialisé
+[2025-12-24 10:57:16] [FACTORY] PieceS created
+[2025-12-24 10:57:16] [FACTORY] PieceL created
+[2025-12-24 10:57:16] [INFO] Jeu démarré
+[2025-12-24 10:57:16] [STATE] EtatMenu -> EtatEnCours
+[2025-12-24 10:57:16] [STATE] MENU -> EN_COURS
+[2025-12-24 10:57:20] [FACTORY] PieceS created
+[2025-12-24 10:57:22] [FACTORY] PieceT created
+[2025-12-24 10:57:25] [FACTORY] PieceS created
+[2025-12-24 10:57:28] [FACTORY] PieceZ created
+[2025-12-24 10:57:31] [FACTORY] PieceS created
+[2025-12-24 10:57:39] [FACTORY] PieceO created
+[2025-12-24 10:57:42] [FACTORY] PieceS created
+[2025-12-24 10:57:43] [FACTORY] PieceS created
+[2025-12-24 10:57:44] [FACTORY] PieceI created
+[2025-12-24 10:57:45] [FACTORY] PieceL created
+[2025-12-24 10:57:46] [FACTORY] PieceT created
+[2025-12-24 10:57:47] [FACTORY] PieceJ created
+[2025-12-24 10:57:48] [FACTORY] PieceZ created
+[2025-12-24 10:57:49] [STATE] EtatEnCours -> EtatGameOver
+[2025-12-24 10:57:49] [STATE] EN_COURS -> GAME_OVER
+[2025-12-24 10:57:49] [SCORE] Final score: 170
+[2025-12-24 10:57:56] [INFO] Nouveau jeu démarré
+[2025-12-24 10:57:56] [STATE] EtatGameOver -> EtatMenu
+[2025-12-24 10:57:56] [STATE] INCONNU -> MENU
+[2025-12-24 10:57:56] [FACTORY] PieceZ created
+[2025-12-24 10:57:57] [FACTORY] PieceT created
+[2025-12-24 10:57:57] [INFO] Jeu démarré
+[2025-12-24 10:57:57] [STATE] EtatMenu -> EtatEnCours
+[2025-12-24 10:57:57] [STATE] MENU -> EN_COURS
+[2025-12-24 10:57:59] [FACTORY] PieceO created
+[2025-12-24 10:58:00] [FACTORY] PieceS created
+[2025-12-24 10:58:03] [FACTORY] PieceZ created
+[2025-12-24 10:58:07] [FACTORY] PieceL created
+[2025-12-24 10:58:10] [FACTORY] PieceZ created
+[2025-12-24 10:58:13] [FACTORY] PieceI created
+[2025-12-24 10:58:16] [GAME] 1 line(s) cleared
+[2025-12-24 10:58:16] [FACTORY] PieceT created
+[2025-12-24 10:58:20] [FACTORY] PieceI created
+[2025-12-24 10:58:25] [FACTORY] PieceZ created
+[2025-12-24 10:58:26] [FACTORY] PieceS created
+[2025-12-24 10:58:27] [FACTORY] PieceI created
+[2025-12-24 10:58:28] [FACTORY] PieceL created
+[2025-12-24 10:58:29] [FACTORY] PieceJ created
+[2025-12-24 10:58:30] [FACTORY] PieceI created
+[2025-12-24 10:58:31] [FACTORY] PieceJ created
+[2025-12-24 10:58:32] [FACTORY] PieceL created
+[2025-12-24 10:58:33] [FACTORY] PieceL created
+[2025-12-24 10:58:34] [STATE] EtatEnCours -> EtatGameOver
+[2025-12-24 10:58:34] [STATE] EN_COURS -> GAME_OVER
+[2025-12-24 10:58:34] [SCORE] Final score: 280
+[2025-12-24 10:58:37] [INFO] Nouveau jeu démarré
+[2025-12-24 10:58:37] [STATE] EtatGameOver -> EtatMenu
+[2025-12-24 10:58:37] [STATE] INCONNU -> MENU
+[2025-12-24 10:58:37] [FACTORY] PieceL created
+[2025-12-24 11:00:25] [INFO] === Nouvelle session de jeu ===
+[2025-12-24 11:00:25] [STATE] INCONNU -> MENU
+[2025-12-24 11:00:25] [INFO] Jeu initialisé
+[2025-12-24 11:00:26] [FACTORY] PieceJ created
+[2025-12-24 11:00:26] [FACTORY] PieceT created
+[2025-12-24 11:00:26] [INFO] Jeu démarré
+[2025-12-24 11:00:26] [STATE] EtatMenu -> EtatEnCours
+[2025-12-24 11:00:26] [STATE] MENU -> EN_COURS
+[2025-12-24 11:00:29] [FACTORY] PieceT created
+[2025-12-24 11:00:32] [FACTORY] PieceI created
+[2025-12-24 11:00:35] [FACTORY] PieceS created
+[2025-12-24 11:00:38] [GAME] 1 line(s) cleared
+[2025-12-24 11:00:38] [FACTORY] PieceS created
+[2025-12-24 11:00:41] [FACTORY] PieceZ created
+[2025-12-24 11:00:43] [FACTORY] PieceJ created
+[2025-12-24 11:00:49] [FACTORY] PieceZ created
+[2025-12-24 11:00:53] [FACTORY] PieceO created
+[2025-12-24 11:00:55] [FACTORY] PieceZ created
+[2025-12-24 11:00:58] [FACTORY] PieceL created
+[2025-12-24 11:01:02] [FACTORY] PieceZ created
+[2025-12-24 11:01:07] [GAME] 1 line(s) cleared
+[2025-12-24 11:01:07] [FACTORY] PieceJ created
+[2025-12-24 11:01:16] [FACTORY] PieceS created
+[2025-12-24 11:01:17] [FACTORY] PieceL created
+[2025-12-24 11:01:18] [FACTORY] PieceI created
+[2025-12-24 11:01:19] [FACTORY] PieceT created
+[2025-12-24 11:01:20] [FACTORY] PieceL created
+[2025-12-24 11:01:21] [FACTORY] PieceZ created
+[2025-12-24 11:01:22] [STATE] EtatEnCours -> EtatGameOver
+[2025-12-24 11:01:22] [STATE] EN_COURS -> GAME_OVER
+[2025-12-24 11:01:22] [SCORE] Final score: 390
+[2025-12-24 11:03:43] [INFO] === Nouvelle session de jeu ===
+[2025-12-24 11:03:43] [STATE] INCONNU -> MENU
+[2025-12-24 11:03:43] [INFO] Jeu initialisé
+[2025-12-24 11:03:47] [FACTORY] PieceL created
+[2025-12-24 11:03:47] [FACTORY] PieceZ created
+[2025-12-24 11:03:47] [INFO] Jeu démarré
+[2025-12-24 11:03:47] [STATE] EtatMenu -> EtatEnCours
+[2025-12-24 11:03:47] [STATE] MENU -> EN_COURS
+[2025-12-24 11:03:50] [FACTORY] PieceZ created
+[2025-12-24 11:03:53] [FACTORY] PieceI created
+[2025-12-24 11:03:56] [FACTORY] PieceZ created
+[2025-12-24 11:03:58] [FACTORY] PieceL created
+[2025-12-24 11:04:00] [FACTORY] PieceJ created
+[2025-12-24 11:04:02] [FACTORY] PieceS created
+[2025-12-24 11:04:05] [FACTORY] PieceI created
+[2025-12-24 11:04:07] [FACTORY] PieceS created
+[2025-12-24 11:04:12] [GAME] 2 line(s) cleared
+[2025-12-24 11:04:12] [FACTORY] PieceZ created
+[2025-12-24 11:04:16] [GAME] 1 line(s) cleared
+[2025-12-24 11:04:16] [FACTORY] PieceL created
+[2025-12-24 11:04:17] [FACTORY] PieceL created
+[2025-12-24 11:04:18] [FACTORY] PieceO created
+[2025-12-24 11:04:19] [FACTORY] PieceL created
+[2025-12-24 11:04:20] [FACTORY] PieceI created
+[2025-12-24 11:04:21] [FACTORY] PieceT created
+[2025-12-24 11:04:22] [FACTORY] PieceS created
+[2025-12-24 11:04:23] [FACTORY] PieceO created
+[2025-12-24 11:04:24] [FACTORY] PieceL created
+[2025-12-24 11:04:25] [FACTORY] PieceZ created
+[2025-12-24 11:04:26] [STATE] EtatEnCours -> EtatGameOver
+[2025-12-24 11:04:26] [STATE] EN_COURS -> GAME_OVER
+[2025-12-24 11:04:26] [SCORE] Final score: 600
+[2025-12-24 11:09:30] [INFO] === Nouvelle session de jeu ===
+[2025-12-24 11:09:30] [STATE] INCONNU -> MENU
+[2025-12-24 11:09:30] [INFO] Jeu initialisé
+[2025-12-24 11:09:32] [FACTORY] PieceT created
+[2025-12-24 11:09:32] [FACTORY] PieceL created
+[2025-12-24 11:09:32] [INFO] Jeu démarré
+[2025-12-24 11:09:32] [STATE] EtatMenu -> EtatEnCours
+[2025-12-24 11:09:32] [STATE] MENU -> EN_COURS
+[2025-12-24 11:09:35] [FACTORY] PieceO created
+[2025-12-24 11:09:37] [FACTORY] PieceO created
+[2025-12-24 11:09:40] [FACTORY] PieceJ created
+[2025-12-24 11:09:42] [GAME] 1 line(s) cleared
+[2025-12-24 11:09:42] [FACTORY] PieceI created
+[2025-12-24 11:09:46] [FACTORY] PieceO created
+[2025-12-24 11:09:50] [FACTORY] PieceO created
+[2025-12-24 11:09:53] [FACTORY] PieceI created
+[2025-12-24 11:09:58] [FACTORY] PieceL created
+[2025-12-24 11:10:01] [FACTORY] PieceL created
+[2025-12-24 11:10:04] [FACTORY] PieceZ created
+[2025-12-24 11:10:07] [FACTORY] PieceO created
+[2025-12-24 11:10:10] [FACTORY] PieceT created
+[2025-12-24 11:10:14] [FACTORY] PieceI created
+[2025-12-24 11:10:18] [FACTORY] PieceJ created
+[2025-12-24 11:10:21] [GAME] 1 line(s) cleared
+[2025-12-24 11:10:21] [FACTORY] PieceZ created
+[2025-12-24 11:10:24] [FACTORY] PieceS created
+[2025-12-24 11:10:27] [FACTORY] PieceJ created
+[2025-12-24 11:10:31] [FACTORY] PieceT created
+[2025-12-24 11:10:36] [FACTORY] PieceO created
+[2025-12-24 11:10:39] [FACTORY] PieceI created
+[2025-12-24 11:10:43] [GAME] 1 line(s) cleared
+[2025-12-24 11:10:43] [FACTORY] PieceL created
+[2025-12-24 11:10:46] [FACTORY] PieceZ created
+[2025-12-24 11:10:50] [FACTORY] PieceZ created
+[2025-12-24 11:10:51] [FACTORY] PieceT created
+[2025-12-24 11:10:52] [FACTORY] PieceZ created
+[2025-12-24 11:10:53] [FACTORY] PieceS created
+[2025-12-24 11:10:54] [FACTORY] PieceT created
+[2025-12-24 11:10:55] [STATE] EtatEnCours -> EtatGameOver
+[2025-12-24 11:10:55] [STATE] EN_COURS -> GAME_OVER
+[2025-12-24 11:10:55] [SCORE] Final score: 580
+[2025-12-24 11:11:01] [INFO] Nouveau jeu démarré
+[2025-12-24 11:11:01] [STATE] EtatGameOver -> EtatMenu
+[2025-12-24 11:11:01] [STATE] INCONNU -> MENU
+[2025-12-24 11:11:01] [FACTORY] PieceL created
+[2025-12-24 11:11:02] [FACTORY] PieceS created
+[2025-12-24 11:11:02] [INFO] Jeu démarré
+[2025-12-24 11:11:02] [STATE] EtatMenu -> EtatEnCours
+[2025-12-24 11:11:02] [STATE] MENU -> EN_COURS
+[2025-12-24 11:11:04] [FACTORY] PieceZ created
+[2025-12-24 11:11:05] [FACTORY] PieceL created
+[2025-12-24 11:11:06] [FACTORY] PieceI created
+[2025-12-24 11:11:07] [FACTORY] PieceT created
+[2025-12-24 11:11:08] [FACTORY] PieceL created
+[2025-12-24 11:11:09] [FACTORY] PieceT created
+[2025-12-24 11:11:10] [FACTORY] PieceT created
+[2025-12-24 11:11:11] [FACTORY] PieceO created
+[2025-12-24 11:11:12] [FACTORY] PieceS created
+[2025-12-24 11:11:13] [STATE] EtatEnCours -> EtatGameOver
+[2025-12-24 11:11:13] [STATE] EN_COURS -> GAME_OVER
+[2025-12-24 11:11:13] [SCORE] Final score: 100
+[2025-12-24 11:11:28] [INFO] === Nouvelle session de jeu ===
+[2025-12-24 11:11:28] [STATE] INCONNU -> MENU
+[2025-12-24 11:11:28] [INFO] Jeu initialisé
+[2025-12-24 11:17:04] [FACTORY] PieceZ created
+[2025-12-24 11:17:04] [FACTORY] PieceT created
+[2025-12-24 11:17:04] [INFO] Jeu démarré
+[2025-12-24 11:17:04] [STATE] EtatMenu -> EtatEnCours
+[2025-12-24 11:17:04] [STATE] MENU -> EN_COURS
+[2025-12-24 11:17:20] [FACTORY] PieceS created
+[2025-12-24 11:17:38] [FACTORY] PieceL created
+[2025-12-24 11:17:50] [FACTORY] PieceS created
+[2025-12-24 11:18:04] [FACTORY] PieceT created
+[2025-12-24 11:18:17] [FACTORY] PieceL created
+[2025-12-24 11:18:25] [FACTORY] PieceT created
+[2025-12-24 11:18:33] [FACTORY] PieceL created
+[2025-12-24 11:18:43] [INFO] Nouveau jeu démarré
+[2025-12-24 11:18:43] [STATE] EtatEnCours -> EtatMenu
+[2025-12-24 11:18:43] [STATE] INCONNU -> MENU
+[2025-12-24 11:22:39] [INFO] === Nouvelle session de jeu ===
+[2025-12-24 11:22:39] [STATE] INCONNU -> MENU
+[2025-12-24 11:22:39] [INFO] Jeu initialisé
+[2025-12-24 11:25:35] [FACTORY] PieceO created
+[2025-12-24 11:25:35] [FACTORY] PieceL created
+[2025-12-24 11:25:35] [INFO] Jeu démarré
+[2025-12-24 11:25:35] [STATE] EtatMenu -> EtatEnCours
+[2025-12-24 11:25:35] [STATE] MENU -> EN_COURS
+[2025-12-24 11:25:52] [FACTORY] PieceS created
+[2025-12-24 11:26:07] [FACTORY] PieceZ created
+[2025-12-24 11:26:21] [FACTORY] PieceZ created
+[2025-12-24 11:26:32] [FACTORY] PieceI created
+[2025-12-24 11:26:35] [FACTORY] PieceZ created
+[2025-12-24 11:26:39] [FACTORY] PieceJ created
+[2025-12-24 11:26:46] [FACTORY] PieceT created
+[2025-12-24 11:26:57] [FACTORY] PieceT created
+[2025-12-24 11:27:05] [FACTORY] PieceO created
+[2025-12-24 11:27:13] [FACTORY] PieceT created
+[2025-12-24 11:27:19] [FACTORY] PieceL created
+[2025-12-24 11:27:28] [FACTORY] PieceT created
+[2025-12-24 11:27:32] [STATE] EtatEnCours -> EtatPause
+[2025-12-24 11:27:32] [STATE] EN_COURS -> PAUSE
+[2025-12-24 11:28:19] [INFO] === Nouvelle session de jeu ===
+[2025-12-24 11:28:19] [STATE] INCONNU -> MENU
+[2025-12-24 11:28:19] [INFO] Jeu initialisé
+[2025-12-24 11:31:48] [FACTORY] PieceJ created
+[2025-12-24 11:31:48] [FACTORY] PieceS created
+[2025-12-24 11:31:48] [INFO] Jeu démarré
+[2025-12-24 11:31:48] [STATE] EtatMenu -> EtatEnCours
+[2025-12-24 11:31:48] [STATE] MENU -> EN_COURS
+[2025-12-24 11:32:01] [FACTORY] PieceS created
+[2025-12-24 11:32:12] [FACTORY] PieceL created
+[2025-12-24 11:32:21] [FACTORY] PieceI created
+[2025-12-24 11:32:31] [FACTORY] PieceZ created
+[2025-12-24 11:32:37] [FACTORY] PieceL created
+[2025-12-24 11:32:49] [FACTORY] PieceS created
+[2025-12-24 11:32:57] [GAME] 1 line(s) cleared
+[2025-12-24 11:32:57] [FACTORY] PieceL created
+[2025-12-24 11:33:08] [FACTORY] PieceI created
+[2025-12-24 11:33:17] [FACTORY] PieceI created
+[2025-12-24 11:33:29] [GAME] 1 line(s) cleared
+[2025-12-24 11:33:29] [FACTORY] PieceS created
+[2025-12-24 11:33:42] [GAME] 1 line(s) cleared
+[2025-12-24 11:33:42] [FACTORY] PieceI created
+[2025-12-24 11:33:53] [FACTORY] PieceS created
+[2025-12-24 11:34:00] [FACTORY] PieceI created
+[2025-12-24 11:34:06] [FACTORY] PieceZ created
+[2025-12-24 11:34:09] [GAME] 2 line(s) cleared
+[2025-12-24 11:34:09] [FACTORY] PieceT created
+[2025-12-24 11:34:17] [FACTORY] PieceL created
+[2025-12-24 11:34:31] [FACTORY] PieceI created
+[2025-12-24 11:34:43] [FACTORY] PieceJ created
+[2025-12-24 11:34:54] [FACTORY] PieceO created
+[2025-12-24 11:35:03] [FACTORY] PieceJ created
+[2025-12-24 11:35:11] [FACTORY] PieceJ created
+[2025-12-24 11:35:17] [FACTORY] PieceL created
+[2025-12-24 11:35:21] [FACTORY] PieceZ created
+[2025-12-24 11:35:23] [FACTORY] PieceS created
+[2025-12-24 11:35:24] [STATE] EtatEnCours -> EtatGameOver
+[2025-12-24 11:35:24] [STATE] EN_COURS -> GAME_OVER
+[2025-12-24 11:35:24] [SCORE] Final score: 850
+[2025-12-24 11:35:57] [INFO] === Nouvelle session de jeu ===
+[2025-12-24 11:35:57] [STATE] INCONNU -> MENU
+[2025-12-24 11:35:57] [INFO] Jeu initialisé
+[2025-12-24 11:41:50] [FACTORY] PieceO created
+[2025-12-24 11:41:50] [FACTORY] PieceJ created
+[2025-12-24 11:41:50] [INFO] Jeu démarré
+[2025-12-24 11:41:50] [STATE] EtatMenu -> EtatEnCours
+[2025-12-24 11:41:50] [STATE] MENU -> EN_COURS
+[2025-12-24 11:42:06] [FACTORY] PieceJ created
+[2025-12-24 11:42:22] [FACTORY] PieceT created
+[2025-12-24 11:42:32] [FACTORY] PieceJ created
+[2025-12-24 11:42:46] [FACTORY] PieceS created
+[2025-12-24 11:42:58] [FACTORY] PieceI created
+[2025-12-24 11:43:08] [FACTORY] PieceI created
+[2025-12-24 11:43:20] [GAME] 1 line(s) cleared
+[2025-12-24 11:43:20] [FACTORY] PieceI created
+[2025-12-24 11:43:32] [FACTORY] PieceZ created
+[2025-12-24 11:43:37] [GAME] 1 line(s) cleared
+[2025-12-24 11:43:37] [FACTORY] PieceZ created
+[2025-12-24 11:43:42] [GAME] 1 line(s) cleared
+[2025-12-24 11:43:42] [FACTORY] PieceZ created
+[2025-12-24 11:43:49] [FACTORY] PieceI created
+[2025-12-24 11:44:00] [GAME] 1 line(s) cleared
+[2025-12-24 11:44:00] [FACTORY] PieceS created
+[2025-12-24 11:44:12] [FACTORY] PieceL created
+[2025-12-24 11:44:17] [FACTORY] PieceT created
+[2025-12-24 11:44:28] [FACTORY] PieceO created
+[2025-12-24 11:44:38] [FACTORY] PieceJ created
+[2025-12-24 11:44:51] [FACTORY] PieceZ created
+[2025-12-24 11:44:51] [STATE] EtatEnCours -> EtatPause
+[2025-12-24 11:44:51] [STATE] EN_COURS -> PAUSE
+[2025-12-24 11:46:00] [STATE] PAUSE -> EN_COURS
+[2025-12-24 11:46:00] [STATE] EtatPause -> EtatEnCours
+[2025-12-24 11:46:00] [STATE] MENU -> EN_COURS
+[2025-12-24 11:46:07] [FACTORY] PieceS created
+[2025-12-24 11:46:10] [GAME] 1 line(s) cleared
+[2025-12-24 11:46:10] [FACTORY] PieceS created
+[2025-12-24 11:46:14] [FACTORY] PieceI created
+[2025-12-24 11:46:17] [FACTORY] PieceI created
+[2025-12-24 11:46:20] [FACTORY] PieceI created
+[2025-12-24 11:46:23] [GAME] 2 line(s) cleared
+[2025-12-24 11:46:23] [FACTORY] PieceL created
+[2025-12-24 11:46:27] [FACTORY] PieceL created
+[2025-12-24 11:46:29] [GAME] 1 line(s) cleared
+[2025-12-24 11:46:29] [FACTORY] PieceJ created
+[2025-12-24 11:46:33] [GAME] 1 line(s) cleared
+[2025-12-24 11:46:33] [FACTORY] PieceS created
+[2025-12-24 11:46:38] [FACTORY] PieceJ created
+[2025-12-24 11:46:40] [FACTORY] PieceZ created
+[2025-12-24 11:46:43] [FACTORY] PieceO created
+[2025-12-24 11:46:45] [FACTORY] PieceJ created
+[2025-12-24 11:46:47] [FACTORY] PieceJ created
+[2025-12-24 11:46:50] [FACTORY] PieceL created
+[2025-12-24 11:46:53] [FACTORY] PieceL created
+[2025-12-24 11:46:57] [INFO] Niveau 2 atteint !
+[2025-12-24 11:46:57] [GAME] 3 line(s) cleared
+[2025-12-24 11:46:57] [FACTORY] PieceZ created
+[2025-12-24 11:47:00] [STATE] EtatEnCours -> EtatPause
+[2025-12-24 11:47:00] [STATE] EN_COURS -> PAUSE
+[2025-12-24 11:47:06] [STATE] PAUSE -> EN_COURS
+[2025-12-24 11:47:06] [STATE] EtatPause -> EtatEnCours
+[2025-12-24 11:47:06] [STATE] MENU -> EN_COURS
+[2025-12-24 11:47:17] [FACTORY] PieceO created
+[2025-12-24 11:47:24] [FACTORY] PieceO created
+[2025-12-24 11:47:30] [FACTORY] PieceZ created
+[2025-12-24 11:47:37] [STATE] EtatEnCours -> EtatPause
+[2025-12-24 11:47:37] [STATE] EN_COURS -> PAUSE
+[2025-12-24 11:47:57] [STATE] PAUSE -> EN_COURS
+[2025-12-24 11:47:57] [STATE] EtatPause -> EtatEnCours
+[2025-12-24 11:47:57] [STATE] MENU -> EN_COURS
+[2025-12-24 11:48:05] [FACTORY] PieceZ created
+[2025-12-24 11:48:15] [FACTORY] PieceO created
+[2025-12-24 11:48:22] [FACTORY] PieceI created
+[2025-12-24 11:48:31] [FACTORY] PieceZ created
+[2025-12-24 11:48:41] [STATE] EtatEnCours -> EtatPause
+[2025-12-24 11:48:41] [STATE] EN_COURS -> PAUSE
+[2025-12-24 11:48:51] [STATE] PAUSE -> EN_COURS
+[2025-12-24 11:48:51] [STATE] EtatPause -> EtatEnCours
+[2025-12-24 11:48:51] [STATE] MENU -> EN_COURS
+[2025-12-24 11:48:55] [FACTORY] PieceI created
+[2025-12-24 11:49:02] [FACTORY] PieceL created
+[2025-12-24 11:49:04] [GAME] 1 line(s) cleared
+[2025-12-24 11:49:04] [FACTORY] PieceO created
+[2025-12-24 11:49:14] [FACTORY] PieceO created
+[2025-12-24 11:49:21] [FACTORY] PieceZ created
+[2025-12-24 11:49:26] [FACTORY] PieceI created
+[2025-12-24 11:49:31] [FACTORY] PieceJ created
+[2025-12-24 11:49:35] [FACTORY] PieceO created
+[2025-12-24 11:49:36] [FACTORY] PieceS created
+[2025-12-24 11:49:37] [FACTORY] PieceL created
+[2025-12-24 11:49:38] [FACTORY] PieceL created
+[2025-12-24 11:49:39] [FACTORY] PieceZ created
+[2025-12-24 11:49:40] [STATE] EtatEnCours -> EtatGameOver
+[2025-12-24 11:49:40] [STATE] EN_COURS -> GAME_OVER
+[2025-12-24 11:49:40] [SCORE] Final score: 2740
+[2025-12-24 11:50:33] [INFO] Nouveau jeu démarré
+[2025-12-24 11:50:33] [STATE] EtatGameOver -> EtatMenu
+[2025-12-24 11:50:33] [STATE] INCONNU -> MENU
+[2025-12-24 11:50:33] [FACTORY] PieceL created
+[2025-12-24 12:00:40] [INFO] === Nouvelle session de jeu ===
+[2025-12-24 12:00:40] [STATE] INCONNU -> MENU
+[2025-12-24 12:00:40] [INFO] Jeu initialisé
+[2025-12-24 12:01:11] [FACTORY] PieceJ created
+[2025-12-24 12:01:11] [FACTORY] PieceO created
+[2025-12-24 12:01:11] [INFO] Jeu démarré
+[2025-12-24 12:01:11] [STATE] EtatMenu -> EtatEnCours
+[2025-12-24 12:01:11] [STATE] MENU -> EN_COURS
+[2025-12-24 12:01:20] [FACTORY] PieceZ created
+[2025-12-24 12:01:21] [FACTORY] PieceJ created
+[2025-12-24 12:01:22] [FACTORY] PieceT created
+[2025-12-24 12:01:23] [FACTORY] PieceL created
+[2025-12-24 12:01:24] [FACTORY] PieceL created
+[2025-12-24 12:01:24] [FACTORY] PieceI created
+[2025-12-24 12:01:24] [FACTORY] PieceT created
+[2025-12-24 12:01:24] [FACTORY] PieceO created
+[2025-12-24 12:01:25] [FACTORY] PieceL created
+[2025-12-24 12:01:25] [FACTORY] PieceZ created
+[2025-12-24 12:01:25] [FACTORY] PieceJ created
+[2025-12-24 12:01:25] [FACTORY] PieceT created
+[2025-12-24 12:01:26] [FACTORY] PieceS created
+[2025-12-24 12:01:27] [FACTORY] PieceI created
+[2025-12-24 12:01:27] [STATE] EtatEnCours -> EtatGameOver
+[2025-12-24 12:01:27] [STATE] EN_COURS -> GAME_OVER
+[2025-12-24 12:01:27] [SCORE] Final score: 300
+[2025-12-24 12:01:48] [INFO] === Nouvelle session de jeu ===
+[2025-12-24 12:01:48] [STATE] INCONNU -> MENU
+[2025-12-24 12:01:48] [INFO] Jeu initialisé
+[2025-12-24 12:05:03] [FACTORY] PieceI created
+[2025-12-24 12:05:03] [FACTORY] PieceT created
+[2025-12-24 12:05:03] [INFO] Jeu démarré
+[2025-12-24 12:05:03] [STATE] EtatMenu -> EtatEnCours
+[2025-12-24 12:05:03] [STATE] MENU -> EN_COURS
+[2025-12-24 12:05:20] [FACTORY] PieceJ created
+[2025-12-24 12:05:36] [FACTORY] PieceZ created
+[2025-12-24 12:05:45] [GAME] 1 line(s) cleared
+[2025-12-24 12:05:45] [FACTORY] PieceT created
+[2025-12-24 12:06:03] [FACTORY] PieceT created
+[2025-12-24 12:06:15] [FACTORY] PieceS created
+[2025-12-24 12:06:19] [FACTORY] PieceZ created
+[2025-12-24 12:06:30] [FACTORY] PieceO created
+[2025-12-24 12:06:38] [GAME] 1 line(s) cleared
+[2025-12-24 12:06:38] [FACTORY] PieceS created
+[2025-12-24 12:06:51] [FACTORY] PieceZ created
+[2025-12-24 12:06:59] [FACTORY] PieceT created
+[2025-12-24 12:07:08] [FACTORY] PieceZ created
+[2025-12-24 12:07:12] [FACTORY] PieceT created
+[2025-12-24 12:07:15] [FACTORY] PieceO created
+[2025-12-24 12:07:19] [FACTORY] PieceO created
+[2025-12-24 12:07:22] [FACTORY] PieceS created
+[2025-12-24 12:07:24] [FACTORY] PieceL created
+[2025-12-24 12:07:26] [FACTORY] PieceO created
+[2025-12-24 12:07:29] [FACTORY] PieceT created
+[2025-12-24 12:07:31] [FACTORY] PieceJ created
+[2025-12-24 12:07:34] [FACTORY] PieceZ created
+[2025-12-24 12:07:44] [GAME] 1 line(s) cleared
+[2025-12-24 12:07:44] [FACTORY] PieceT created
+[2025-12-24 12:07:54] [FACTORY] PieceZ created
+[2025-12-24 12:08:02] [FACTORY] PieceS created
+[2025-12-24 12:08:09] [FACTORY] PieceO created
+[2025-12-24 12:08:16] [FACTORY] PieceS created
+[2025-12-24 12:08:26] [FACTORY] PieceL created
+[2025-12-24 12:08:29] [FACTORY] PieceO created
+[2025-12-24 12:08:31] [FACTORY] PieceO created
+[2025-12-24 12:08:36] [FACTORY] PieceJ created
+[2025-12-24 12:08:40] [FACTORY] PieceO created
+[2025-12-24 12:08:45] [FACTORY] PieceT created
+[2025-12-24 12:08:51] [FACTORY] PieceL created
+[2025-12-24 12:08:56] [FACTORY] PieceT created
+[2025-12-24 12:08:59] [FACTORY] PieceO created
+[2025-12-24 12:09:00] [STATE] EtatEnCours -> EtatGameOver
+[2025-12-24 12:09:00] [STATE] EN_COURS -> GAME_OVER
+[2025-12-24 12:09:00] [SCORE] Final score: 650
+[2025-12-24 12:09:38] [INFO] === Nouvelle session de jeu ===
+[2025-12-24 12:09:38] [STATE] INCONNU -> MENU
+[2025-12-24 12:09:38] [INFO] Jeu initialisé
+[2025-12-24 12:12:39] [FACTORY] PieceL created
+[2025-12-24 12:12:39] [FACTORY] PieceT created
+[2025-12-24 12:12:39] [INFO] Jeu démarré
+[2025-12-24 12:12:39] [STATE] EtatMenu -> EtatEnCours
+[2025-12-24 12:12:39] [STATE] MENU -> EN_COURS
+[2025-12-24 12:12:55] [FACTORY] PieceI created
+[2025-12-24 12:13:11] [FACTORY] PieceT created
+[2025-12-24 12:13:20] [FACTORY] PieceJ created
+[2025-12-24 12:13:31] [GAME] 1 line(s) cleared
+[2025-12-24 12:13:31] [FACTORY] PieceS created
+[2025-12-24 12:13:48] [FACTORY] PieceJ created
+[2025-12-24 12:13:58] [FACTORY] PieceZ created
+[2025-12-24 12:14:03] [FACTORY] PieceO created
+[2025-12-24 12:14:07] [FACTORY] PieceT created
+[2025-12-24 12:14:09] [FACTORY] PieceZ created
+[2025-12-24 12:14:12] [FACTORY] PieceZ created
+[2025-12-24 12:14:26] [FACTORY] PieceT created
+[2025-12-24 12:14:29] [FACTORY] PieceI created
+[2025-12-24 12:14:33] [FACTORY] PieceS created
+[2025-12-24 12:14:36] [FACTORY] PieceZ created
+[2025-12-24 12:14:39] [FACTORY] PieceL created
+[2025-12-24 12:14:41] [FACTORY] PieceJ created
+[2025-12-24 12:14:45] [FACTORY] PieceO created
+[2025-12-24 12:14:48] [FACTORY] PieceT created
+[2025-12-24 12:14:52] [FACTORY] PieceT created
+[2025-12-24 12:14:55] [FACTORY] PieceI created
+[2025-12-24 12:14:57] [FACTORY] PieceO created
+[2025-12-24 12:15:11] [GAME] 4 line(s) cleared
+[2025-12-24 12:15:11] [FACTORY] PieceT created
+[2025-12-24 12:15:25] [FACTORY] PieceT created
+[2025-12-24 12:15:35] [FACTORY] PieceO created
+[2025-12-24 12:15:46] [FACTORY] PieceT created
+[2025-12-24 12:15:51] [FACTORY] PieceO created
+[2025-12-24 12:15:57] [FACTORY] PieceO created
+[2025-12-24 12:16:00] [FACTORY] PieceL created
+[2025-12-24 12:16:05] [FACTORY] PieceT created
+[2025-12-24 12:16:09] [FACTORY] PieceT created
+[2025-12-24 12:16:13] [FACTORY] PieceJ created
+[2025-12-24 12:16:16] [FACTORY] PieceS created
+[2025-12-24 12:16:19] [FACTORY] PieceI created
+[2025-12-24 12:16:22] [FACTORY] PieceO created
+[2025-12-24 12:16:25] [GAME] 4 line(s) cleared
+[2025-12-24 12:16:25] [FACTORY] PieceT created
+[2025-12-24 12:16:28] [FACTORY] PieceZ created
+[2025-12-24 12:16:30] [FACTORY] PieceJ created
+[2025-12-24 12:16:35] [FACTORY] PieceO created
+[2025-12-24 12:16:37] [FACTORY] PieceZ created
+[2025-12-24 12:16:39] [FACTORY] PieceJ created
+[2025-12-24 12:16:41] [FACTORY] PieceT created
+[2025-12-24 12:16:44] [FACTORY] PieceJ created
+[2025-12-24 12:16:47] [FACTORY] PieceS created
+[2025-12-24 12:16:56] [INFO] Niveau 2 atteint !
+[2025-12-24 12:16:56] [GAME] 1 line(s) cleared
+[2025-12-24 12:16:56] [FACTORY] PieceJ created
+[2025-12-24 12:17:00] [GAME] 1 line(s) cleared
+[2025-12-24 12:17:00] [FACTORY] PieceI created
+[2025-12-24 12:17:05] [FACTORY] PieceL created
+[2025-12-24 12:17:08] [GAME] 1 line(s) cleared
+[2025-12-24 12:17:08] [FACTORY] PieceO created
+[2025-12-24 12:17:12] [FACTORY] PieceT created
+[2025-12-24 12:17:16] [FACTORY] PieceI created
+[2025-12-24 12:17:22] [FACTORY] PieceL created
+[2025-12-24 12:17:30] [GAME] 1 line(s) cleared
+[2025-12-24 12:17:30] [FACTORY] PieceI created
+[2025-12-24 12:17:34] [FACTORY] PieceS created
+[2025-12-24 12:17:37] [GAME] 3 line(s) cleared
+[2025-12-24 12:17:37] [FACTORY] PieceJ created
+[2025-12-24 12:17:47] [FACTORY] PieceO created
+[2025-12-24 12:17:56] [FACTORY] PieceO created
+[2025-12-24 12:18:02] [FACTORY] PieceI created
+[2025-12-24 12:18:05] [FACTORY] PieceI created
+[2025-12-24 12:18:08] [GAME] 2 line(s) cleared
+[2025-12-24 12:18:08] [FACTORY] PieceL created
+[2025-12-24 12:18:15] [GAME] 1 line(s) cleared
+[2025-12-24 12:18:15] [FACTORY] PieceZ created
+[2025-12-24 12:18:19] [STATE] EtatEnCours -> EtatPause
+[2025-12-24 12:18:19] [STATE] EN_COURS -> PAUSE
+[2025-12-24 12:18:45] [STATE] PAUSE -> EN_COURS
+[2025-12-24 12:18:45] [STATE] EtatPause -> EtatEnCours
+[2025-12-24 12:18:45] [STATE] MENU -> EN_COURS
+[2025-12-24 12:18:49] [FACTORY] PieceL created
+[2025-12-24 12:18:51] [FACTORY] PieceO created
+[2025-12-24 12:18:55] [INFO] Niveau 3 atteint !
+[2025-12-24 12:18:55] [GAME] 1 line(s) cleared
+[2025-12-24 12:18:55] [FACTORY] PieceI created
+[2025-12-24 12:19:07] [FACTORY] PieceZ created
+[2025-12-24 12:19:16] [GAME] 1 line(s) cleared
+[2025-12-24 12:19:16] [FACTORY] PieceS created
+[2025-12-24 12:19:26] [FACTORY] PieceS created
+[2025-12-24 12:19:33] [FACTORY] PieceL created
+[2025-12-24 12:19:40] [FACTORY] PieceO created
+[2025-12-24 12:19:46] [GAME] 1 line(s) cleared
+[2025-12-24 12:19:46] [FACTORY] PieceZ created
+[2025-12-24 12:19:55] [FACTORY] PieceJ created
+[2025-12-24 12:20:01] [FACTORY] PieceO created
+[2025-12-24 12:20:07] [FACTORY] PieceO created
+[2025-12-24 12:20:13] [FACTORY] PieceS created
+[2025-12-24 12:20:21] [FACTORY] PieceJ created
+[2025-12-24 12:20:27] [GAME] 2 line(s) cleared
+[2025-12-24 12:20:27] [FACTORY] PieceJ created
+[2025-12-24 12:20:33] [FACTORY] PieceL created
+[2025-12-24 12:20:41] [FACTORY] PieceL created
+[2025-12-24 12:20:45] [FACTORY] PieceO created
+[2025-12-24 12:20:46] [FACTORY] PieceO created
+[2025-12-24 12:20:47] [FACTORY] PieceZ created
+[2025-12-24 12:20:48] [STATE] EtatEnCours -> EtatGameOver
+[2025-12-24 12:20:48] [STATE] EN_COURS -> GAME_OVER
+[2025-12-24 12:20:48] [SCORE] Final score: 6900
+[2025-12-24 12:21:19] [INFO] Nouveau jeu démarré
+[2025-12-24 12:21:19] [STATE] EtatGameOver -> EtatMenu
+[2025-12-24 12:21:19] [STATE] INCONNU -> MENU
+[2025-12-24 12:21:19] [FACTORY] PieceL created
+[2025-12-24 12:21:35] [FACTORY] PieceI created
+[2025-12-24 12:21:35] [INFO] Jeu démarré
+[2025-12-24 12:21:35] [STATE] EtatMenu -> EtatEnCours
+[2025-12-24 12:21:35] [STATE] MENU -> EN_COURS
+[2025-12-24 12:21:38] [FACTORY] PieceI created
+[2025-12-24 12:21:40] [FACTORY] PieceT created
+[2025-12-24 12:21:43] [FACTORY] PieceI created
+[2025-12-24 12:21:45] [FACTORY] PieceZ created
+[2025-12-24 12:21:47] [FACTORY] PieceJ created
+[2025-12-24 12:21:51] [GAME] 1 line(s) cleared
+[2025-12-24 12:21:51] [FACTORY] PieceL created
+[2025-12-24 12:21:56] [FACTORY] PieceZ created
+[2025-12-24 12:21:59] [FACTORY] PieceS created
+[2025-12-24 12:22:02] [FACTORY] PieceL created
+[2025-12-24 12:22:04] [FACTORY] PieceO created
+[2025-12-24 12:22:08] [FACTORY] PieceZ created
+[2025-12-24 12:22:11] [FACTORY] PieceI created
+[2025-12-24 12:22:13] [FACTORY] PieceO created
+[2025-12-24 12:22:16] [GAME] 1 line(s) cleared
+[2025-12-24 12:22:16] [FACTORY] PieceT created
+[2025-12-24 12:22:20] [FACTORY] PieceJ created
+[2025-12-24 12:22:22] [FACTORY] PieceI created
+[2025-12-24 12:22:26] [GAME] 1 line(s) cleared
+[2025-12-24 12:22:26] [FACTORY] PieceJ created
+[2025-12-24 12:22:29] [GAME] 1 line(s) cleared
+[2025-12-24 12:22:29] [FACTORY] PieceS created
+[2025-12-24 12:22:32] [GAME] 1 line(s) cleared
+[2025-12-24 12:22:32] [FACTORY] PieceZ created
+[2025-12-24 12:22:35] [GAME] 1 line(s) cleared
+[2025-12-24 12:22:35] [FACTORY] PieceO created
+[2025-12-24 12:22:38] [FACTORY] PieceS created
+[2025-12-24 12:22:41] [FACTORY] PieceL created
+[2025-12-24 12:22:44] [FACTORY] PieceZ created
+[2025-12-24 12:22:47] [FACTORY] PieceZ created
+[2025-12-24 12:22:50] [FACTORY] PieceS created
+[2025-12-24 12:22:52] [FACTORY] PieceJ created
+[2025-12-24 12:22:58] [FACTORY] PieceS created
+[2025-12-24 12:22:59] [FACTORY] PieceI created
+[2025-12-24 12:23:00] [FACTORY] PieceT created
+[2025-12-24 12:23:06] [FACTORY] PieceZ created
+[2025-12-24 12:23:09] [FACTORY] PieceI created
+[2025-12-24 12:23:11] [FACTORY] PieceJ created
+[2025-12-24 12:23:13] [GAME] 3 line(s) cleared
+[2025-12-24 12:23:13] [FACTORY] PieceS created
+[2025-12-24 12:23:14] [FACTORY] PieceI created
+[2025-12-24 12:23:17] [FACTORY] PieceL created
+[2025-12-24 12:23:19] [INFO] Niveau 2 atteint !
+[2025-12-24 12:23:19] [GAME] 3 line(s) cleared
+[2025-12-24 12:23:19] [FACTORY] PieceI created
+[2025-12-24 12:23:21] [GAME] 2 line(s) cleared
+[2025-12-24 12:23:21] [FACTORY] PieceS created
+[2025-12-24 12:23:24] [FACTORY] PieceI created
+[2025-12-24 12:23:26] [FACTORY] PieceZ created
+[2025-12-24 12:23:29] [GAME] 1 line(s) cleared
+[2025-12-24 12:23:29] [FACTORY] PieceJ created
+[2025-12-24 12:23:32] [FACTORY] PieceL created
+[2025-12-24 12:23:34] [FACTORY] PieceJ created
+[2025-12-24 12:23:36] [FACTORY] PieceJ created
+[2025-12-24 12:23:39] [GAME] 1 line(s) cleared
+[2025-12-24 12:23:39] [FACTORY] PieceO created
+[2025-12-24 12:23:42] [FACTORY] PieceL created
+[2025-12-24 12:23:44] [FACTORY] PieceL created
+[2025-12-24 12:23:46] [FACTORY] PieceZ created
+[2025-12-24 12:23:48] [FACTORY] PieceO created
+[2025-12-24 12:23:51] [FACTORY] PieceZ created
+[2025-12-24 12:23:52] [FACTORY] PieceJ created
+[2025-12-24 12:23:55] [FACTORY] PieceJ created
+[2025-12-24 12:23:56] [FACTORY] PieceS created
+[2025-12-24 12:23:59] [FACTORY] PieceT created
+[2025-12-24 12:24:00] [FACTORY] PieceI created
+[2025-12-24 12:24:02] [FACTORY] PieceZ created
+[2025-12-24 12:24:04] [GAME] 2 line(s) cleared
+[2025-12-24 12:24:04] [FACTORY] PieceZ created
+[2025-12-24 12:24:06] [FACTORY] PieceO created
+[2025-12-24 12:24:09] [FACTORY] PieceS created
+[2025-12-24 12:24:11] [FACTORY] PieceL created
+[2025-12-24 12:24:13] [FACTORY] PieceZ created
+[2025-12-24 12:24:15] [FACTORY] PieceL created
+[2025-12-24 12:24:17] [FACTORY] PieceI created
+[2025-12-24 12:24:21] [FACTORY] PieceZ created
+[2025-12-24 12:24:22] [INFO] Niveau 3 atteint !
+[2025-12-24 12:24:22] [GAME] 4 line(s) cleared
+[2025-12-24 12:24:22] [FACTORY] PieceS created
+[2025-12-24 12:24:26] [GAME] 1 line(s) cleared
+[2025-12-24 12:24:26] [FACTORY] PieceJ created
+[2025-12-24 12:24:28] [GAME] 1 line(s) cleared
+[2025-12-24 12:24:28] [FACTORY] PieceS created
+[2025-12-24 12:24:31] [GAME] 1 line(s) cleared
+[2025-12-24 12:24:31] [FACTORY] PieceJ created
+[2025-12-24 12:24:34] [FACTORY] PieceZ created
+[2025-12-24 12:24:36] [FACTORY] PieceS created
+[2025-12-24 12:24:39] [FACTORY] PieceJ created
+[2025-12-24 12:24:40] [FACTORY] PieceJ created
+[2025-12-24 12:24:40] [FACTORY] PieceT created
+[2025-12-24 12:24:40] [FACTORY] PieceJ created
+[2025-12-24 12:24:40] [FACTORY] PieceI created
+[2025-12-24 12:24:40] [FACTORY] PieceZ created
+[2025-12-24 12:24:40] [FACTORY] PieceT created
+[2025-12-24 12:24:41] [FACTORY] PieceT created
+[2025-12-24 12:24:41] [STATE] EtatEnCours -> EtatGameOver
+[2025-12-24 12:24:41] [STATE] EN_COURS -> GAME_OVER
+[2025-12-24 12:24:41] [SCORE] Final score: 8350
+[2025-12-24 12:24:55] [INFO] Nouveau jeu démarré
+[2025-12-24 12:24:55] [STATE] EtatGameOver -> EtatMenu
+[2025-12-24 12:24:55] [STATE] INCONNU -> MENU
+[2025-12-24 12:24:55] [FACTORY] PieceO created
+[2025-12-24 12:25:19] [FACTORY] PieceT created
+[2025-12-24 12:25:19] [INFO] Jeu démarré
+[2025-12-24 12:25:19] [STATE] EtatMenu -> EtatEnCours
+[2025-12-24 12:25:19] [STATE] MENU -> EN_COURS
+[2025-12-24 12:25:25] [FACTORY] PieceL created
+[2025-12-24 12:25:28] [FACTORY] PieceI created
+[2025-12-24 12:25:43] [FACTORY] PieceO created
+[2025-12-24 12:25:57] [FACTORY] PieceI created
+[2025-12-24 12:26:09] [FACTORY] PieceJ created
+[2025-12-24 12:26:20] [FACTORY] PieceJ created
+[2025-12-24 12:26:29] [FACTORY] PieceJ created
+[2025-12-24 12:26:37] [FACTORY] PieceJ created
+[2025-12-24 12:26:42] [FACTORY] PieceL created
+[2025-12-24 12:26:45] [FACTORY] PieceT created
+[2025-12-24 12:26:46] [STATE] EtatEnCours -> EtatGameOver
+[2025-12-24 12:26:46] [STATE] EN_COURS -> GAME_OVER
+[2025-12-24 12:26:46] [SCORE] Final score: 110
