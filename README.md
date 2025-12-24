@@ -182,7 +182,7 @@ src/
 ### Lancement
 1. Cloner le repository :
 ```bash
-git clone https://github.com/TON_USERNAME/tetris-design-patterns.git
+git clone https://github.com/syrinesysy/tetris-design-patterns.git
 cd tetris-design-patterns
 ```
 
